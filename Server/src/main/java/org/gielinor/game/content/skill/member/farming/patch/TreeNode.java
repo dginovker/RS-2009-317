@@ -1,0 +1,89 @@
+package org.gielinor.game.content.skill.member.farming.patch;
+
+import org.gielinor.game.content.skill.Skills;
+import org.gielinor.game.content.skill.member.farming.FarmingNode;
+import org.gielinor.game.content.skill.member.farming.wrapper.PatchCycle;
+import org.gielinor.game.node.item.Item;
+
+/**
+ * Represents a tree node.
+ * @author 'Vexia
+ */
+public final class TreeNode extends FarmingNode {
+
+    /**
+     * Constructs a new {@code TreebNode} {@code Object}.
+     * @param seed the sed.
+     * @param product the product.
+     * @param base the base.
+     * @param growthCycles the cycles.
+     * @param minutes the minutes.
+     * @param level the level.
+     * @param experiences the experiences.
+     */
+    public TreeNode(Item seed, Item product, int base, int growthCycles, int minutes, int level, double[] experiences, final Item... protection) {
+        super(seed, product, base, growthCycles, minutes, level, experiences, protection);
+    }
+
+    @Override
+    public void checkHealth(final PatchCycle cycle) {
+        cycle.addConfigValue(cycle.getState() + 1);
+        cycle.getPlayer().getSkills().addExperience(Skills.FARMING, getExperiences()[1]);
+        cycle.getPlayer().getActionSender().sendMessage("You examine the " + cycle.getWrapper().getName() + " for signs of disease and find that it's in perfect health.");
+    }
+
+    @Override
+    public int getNextStage(PatchCycle cycle) {
+        if (isStump(cycle)) {
+            return cycle.getState() - 1;
+        }
+        return super.getNextStage(cycle);
+    }
+
+    @Override
+    public boolean exceedsGrowth(PatchCycle cycle) {
+        if (isStump(cycle)) {
+            return false;
+        }
+        return super.exceedsGrowth(cycle);
+    }
+
+    @Override
+    public boolean isFullGrown(PatchCycle cycle) {
+        if (cycle.getState() == (cycle.getNode().getBase() + (cycle.getNode().getGrowthCycles() + 1))) {
+            return true;
+        }
+        return super.isFullGrown(cycle);
+    }
+
+    @Override
+    public boolean isGrowing(PatchCycle cycle) {
+        if (isStump(cycle)) {
+            return true;
+        }
+        return super.isGrowing(cycle);
+    }
+
+    @Override
+    public boolean canDisease(PatchCycle cycle) {
+        if (isStump(cycle)) {
+            return false;
+        }
+        return super.canDisease(cycle);
+    }
+
+    @Override
+    public boolean isStump(PatchCycle cycle) {
+        return cycle.getState() == getBase() + (getGrowthCycles() + 2);
+    }
+
+    @Override
+    public int getDiseaseBase() {
+        return 73 - 9;
+    }
+
+    @Override
+    public int getDeathBase() {
+        return 137 - 8;
+    }
+}

@@ -1,0 +1,10247 @@
+{
+  "SUMMONING_SHOP": {
+    "npcs": [
+      6970,
+      6971
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Pikkupstix's Summoning Shop",
+    "items": [
+      {
+        "id": 12204,
+        "quantity": 10
+      },
+      {
+        "id": 12207,
+        "quantity": 10
+      },
+      {
+        "id": 12210,
+        "quantity": 10
+      },
+      {
+        "id": 12213,
+        "quantity": 10
+      },
+      {
+        "id": 12216,
+        "quantity": 10
+      },
+      {
+        "id": 12219,
+        "quantity": 10
+      },
+      {
+        "id": 12222,
+        "quantity": 10
+      },
+      {
+        "id": 12183,
+        "quantity": 65000
+      },
+      {
+        "id": 12155,
+        "quantity": 5000
+      }
+    ]
+  },
+  "GRACES_GRACEFUL_CLOTHING": {
+    "npcs": [
+      8602
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 14729,
+    "title": "Grace's Graceful Clothing",
+    "items": [
+      {
+        "id": 14730,
+        "quantity": 1000
+      },
+      {
+        "id": 14732,
+        "quantity": 1000
+      },
+      {
+        "id": 14734,
+        "quantity": 1000
+      },
+      {
+        "id": 14736,
+        "quantity": 1000
+      },
+      {
+        "id": 14738,
+        "quantity": 1000
+      },
+      {
+        "id": 14740,
+        "quantity": 1000
+      },
+      {
+        "id": 14747,
+        "quantity": 200
+      }
+    ]
+  },
+  "COLLECTIONS_AND_COLLECTIBLES": {
+    "npcs": [
+      1393
+    ],
+    "accessibility": "IRONMEN_ONLY",
+    "currency": 995,
+    "title": "Collections and collectibles",
+    "items": [
+      {
+        "id": 31877,
+        "quantity": 10
+      },
+      {
+        "id": 31879,
+        "quantity": 10
+      },
+      {
+        "id": 31881,
+        "quantity": 10
+      },
+      {
+        "id": 31883,
+        "quantity": 10
+      },
+      {
+        "id": 32859,
+        "quantity": 10
+      }
+    ]
+  },
+  "IRONMAN_FISHING": {
+    "npcs": [
+      592
+    ],
+    "accessibility": "IRONMEN_ONLY",
+    "currency": 995,
+    "title": "Swamp People Shop",
+    "items": [
+      {
+        "id": 20303,
+        "quantity": 10
+      },
+      {
+        "id": 307,
+        "quantity": 10
+      },
+      {
+        "id": 311,
+        "quantity": 1000
+      },
+      {
+        "id": 301,
+        "quantity": 10
+      },
+      {
+        "id": 313,
+        "quantity": 1000
+      },
+      {
+        "id": 305,
+        "quantity": 10
+      },
+      {
+        "id": 317,
+        "quantity": 0
+      },
+      {
+        "id": 327,
+        "quantity": 0
+      },
+      {
+        "id": 345,
+        "quantity": 0
+      },
+      {
+        "id": 353,
+        "quantity": 0
+      },
+      {
+        "id": 341,
+        "quantity": 0
+      },
+      {
+        "id": 321,
+        "quantity": 0
+      },
+      {
+        "id": 359,
+        "quantity": 0
+      },
+      {
+        "id": 377,
+        "quantity": 0
+      },
+      {
+        "id": 363,
+        "quantity": 0
+      },
+      {
+        "id": 371,
+        "quantity": 0
+      },
+      {
+        "id": 383,
+        "quantity": 0
+      },
+      {
+        "id": 7810,
+        "quantity": 1000
+      }
+    ]
+  },
+  "IRONMAN_HUNTER": {
+    "npcs": [
+      971
+    ],
+    "accessibility": "IRONMEN_ONLY",
+    "currency": 995,
+    "title": "Hunter Supplies",
+    "items": [
+      {
+        "id": 10150,
+        "quantity": 20
+      },
+      {
+        "id": 10008,
+        "quantity": 20
+      },
+      {
+        "id": 10006,
+        "quantity": 20
+      },
+      {
+        "id": 10010,
+        "quantity": 20
+      },
+      {
+        "id": 10012,
+        "quantity": 500
+      },
+      {
+        "id": 11260,
+        "quantity": 500
+      },
+      {
+        "id": 10031,
+        "quantity": 20
+      },
+      {
+        "id": 10029,
+        "quantity": 20
+      },
+      {
+        "id": 20303,
+        "quantity": 20
+      },
+      {
+        "id": 954,
+        "quantity": 20
+      },
+      {
+        "id": 946,
+        "quantity": 20
+      },
+      {
+        "id": 596,
+        "quantity": 20
+      }
+    ]
+  },
+  "IRONMAN_HERBLORE": {
+    "npcs": [
+      5483
+    ],
+    "accessibility": "IRONMEN_ONLY",
+    "currency": 995,
+    "title": "Herbs and Spices",
+    "items": [
+      {
+        "id": 233,
+        "quantity": 10000
+      },
+      {
+        "id": 227,
+        "quantity": 100
+      },
+      {
+        "id": 31879,
+        "quantity": 20
+      },
+      {
+        "id": 229,
+        "quantity": 100
+      },
+      {
+        "id": 31877,
+        "quantity": 50
+      },
+      {
+        "id": 6124,
+        "quantity": 1000
+      },
+      {
+        "id": 221,
+        "quantity": 100
+      },
+      {
+        "id": 32859,
+        "quantity": 20
+      },
+      {
+        "id": 236,
+        "quantity": 1000
+      },
+      {
+        "id": 226,
+        "quantity": 1000
+      },
+      {
+        "id": 224,
+        "quantity": 1000
+      },
+      {
+        "id": 1976,
+        "quantity": 1000
+      },
+      {
+        "id": 2153,
+        "quantity": 1000
+      },
+      {
+        "id": 232,
+        "quantity": 1000
+      },
+      {
+        "id": 9736,
+        "quantity": 1000
+      },
+      {
+        "id": 242,
+        "quantity": 1000
+      },
+      {
+        "id": 246,
+        "quantity": 1000
+      },
+      {
+        "id": 3139,
+        "quantity": 1000
+      },
+      {
+        "id": 6694,
+        "quantity": 1000
+      },
+      {
+        "id": 2971,
+        "quantity": 1000
+      },
+      {
+        "id": 9594,
+        "quantity": 1000
+      },
+      {
+        "id": 4255,
+        "quantity": 1000
+      },
+      {
+        "id": 1581,
+        "quantity": 1000
+      },
+      {
+        "id": 5291,
+        "quantity": 100
+      },
+      {
+        "id": 5292,
+        "quantity": 100
+      },
+      {
+        "id": 5293,
+        "quantity": 100
+      },
+      {
+        "id": 5294,
+        "quantity": 100
+      },
+      {
+        "id": 5296,
+        "quantity": 5
+      },
+      {
+        "id": 5297,
+        "quantity": 5
+      }
+    ]
+  },
+  "IRONMAN_CRAFTING": {
+    "npcs": [
+      3920
+    ],
+    "accessibility": "IRONMEN_ONLY",
+    "currency": 995,
+    "title": "Runa's Crafting Deals",
+    "items": [
+      {
+        "id": 1625,
+        "quantity": 1000
+      },
+      {
+        "id": 1627,
+        "quantity": 1000
+      },
+      {
+        "id": 314,
+        "quantity": 7000
+      },
+      {
+        "id": 1755,
+        "quantity": 200
+      },
+      {
+        "id": 1733,
+        "quantity": 500
+      },
+      {
+        "id": 1734,
+        "quantity": 10000
+      },
+      {
+        "id": 1592,
+        "quantity": 10
+      },
+      {
+        "id": 1597,
+        "quantity": 10
+      },
+      {
+        "id": 1595,
+        "quantity": 10
+      },
+      {
+        "id": 1733,
+        "quantity": 10
+      },
+      {
+        "id": 1734,
+        "quantity": 1000
+      },
+      {
+        "id": 1599,
+        "quantity": 10
+      },
+      {
+        "id": 11065,
+        "quantity": 10
+      },
+      {
+        "id": 2976,
+        "quantity": 10
+      },
+      {
+        "id": 5523,
+        "quantity": 10
+      }
+    ]
+  },
+  "IRONMAN_AXES": {
+    "npcs": [
+      5484
+    ],
+    "accessibility": "IRONMEN_ONLY",
+    "currency": 995,
+    "title": "Hungry Axes",
+    "items": [
+      {
+        "id": 1265,
+        "quantity": 100
+      },
+      {
+        "id": 1267,
+        "quantity": 100
+      },
+      {
+        "id": 1269,
+        "quantity": 100
+      },
+      {
+        "id": 1273,
+        "quantity": 100
+      },
+      {
+        "id": 1271,
+        "quantity": 100
+      },
+      {
+        "id": 1351,
+        "quantity": 100
+      },
+      {
+        "id": 1353,
+        "quantity": 100
+      },
+      {
+        "id": 1355,
+        "quantity": 100
+      },
+      {
+        "id": 1357,
+        "quantity": 100
+      }
+    ]
+  },
+  "IRONMAN_GENERAL_STORE": {
+    "npcs": [
+      561
+    ],
+    "general": true,
+    "accessibility": "IRONMEN_ONLY",
+    "currency": 995,
+    "title": "General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      },
+      {
+        "id": 954,
+        "quantity": 2
+      },
+      {
+        "id": 946,
+        "quantity": 2
+      },
+      {
+        "id": 2114,
+        "quantity": 14
+      },
+      {
+        "id": 1963,
+        "quantity": 15
+      },
+      {
+        "id": 2108,
+        "quantity": 10
+      },
+      {
+        "id": 4286,
+        "quantity": 10
+      },
+      {
+        "id": 1785,
+        "quantity": 15
+      },
+      {
+        "id": 1783,
+        "quantity": 10
+      },
+      {
+        "id": 401,
+        "quantity": 20
+      },
+      {
+        "id": 1781,
+        "quantity": 10
+      },
+      {
+        "id": 301,
+        "quantity": 20
+      },
+      {
+        "id": 307,
+        "quantity": 20
+      },
+      {
+        "id": 1941,
+        "quantity": 30
+      },
+      {
+        "id": 9629,
+        "quantity": 25
+      },
+      {
+        "id": 3226,
+        "quantity": 20
+      },
+      {
+        "id": 1025,
+        "quantity": 5
+      }
+    ]
+  },
+  "AVAS": {
+    "npcs": [
+      5198,
+      5199
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ava's Odds and Ends",
+    "items": [
+      {
+        "id": 314,
+        "quantity": 1000
+      },
+      {
+        "id": 884,
+        "quantity": 40
+      },
+      {
+        "id": 886,
+        "quantity": 10
+      },
+      {
+        "id": 40,
+        "quantity": 30
+      },
+      {
+        "id": 41,
+        "quantity": 20
+      }
+    ]
+  },
+  "EDGEVILLE_GENERAL_STORE": {
+    "npcs": [
+      528,
+      529
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Edgeville General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "AL_KHARID_GENERAL_STORE": {
+    "npcs": [
+      525,
+      524
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Al Kharid General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "VOID_KNIGHT_GENERAL_STORE": {
+    "npcs": [
+      3799
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Void Knight General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      },
+      {
+        "id": 7934,
+        "quantity": 25
+      }
+    ]
+  },
+  "FALADOR_GENERAL_STORE": {
+    "npcs": [
+      526,
+      527
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Falador General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "GUNSLIKS_ASSORTED_ITEMS": {
+    "npcs": [
+      2154
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Gunslik's Assorted Items",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "THE_LIGHTHOUSE_STORE": {
+    "npcs": [
+      1334
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "The Lighthouse Store",
+    "items": [
+      {
+        "id": 954,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 952,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 36,
+        "quantity": 10
+      },
+      {
+        "id": 273,
+        "quantity": 10
+      },
+      {
+        "id": 233,
+        "quantity": 10
+      },
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1925,
+        "quantity": 30
+      },
+      {
+        "id": 1929,
+        "quantity": 10
+      },
+      {
+        "id": 1935,
+        "quantity": 10
+      },
+      {
+        "id": 1937,
+        "quantity": 300
+      },
+      {
+        "id": 229,
+        "quantity": 10
+      },
+      {
+        "id": 2019,
+        "quantity": 10
+      },
+      {
+        "id": 2021,
+        "quantity": 10
+      },
+      {
+        "id": 2015,
+        "quantity": 10
+      },
+      {
+        "id": 1915,
+        "quantity": 10
+      },
+      {
+        "id": 2017,
+        "quantity": 10
+      },
+      {
+        "id": 1909,
+        "quantity": 10
+      },
+      {
+        "id": 1913,
+        "quantity": 10
+      },
+      {
+        "id": 1907,
+        "quantity": 10
+      }
+    ]
+  },
+  "LLETYA_GENERAL_STORE": {
+    "npcs": [
+      2352
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Lletya General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "MOON_CLAN_GENERAL_STORE": {
+    "npcs": [
+      4516
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Moon Clan General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "LUMBRIDGE_GENERAL_STORE": {
+    "npcs": [
+      520,
+      521
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Lumbridge General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "TRADER_SVENS_BLACK_MARKET_GOODS": {
+    "npcs": [
+      4716
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Trader Sven's Black Market Goods",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "MISCELLANIAN_GENERAL_STORE": {
+    "npcs": [
+      3922
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Miscellanian General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "RAZMIRE_GENERAL_STORE": {
+    "npcs": [
+      1254
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Razmire General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "NARDAH_GENERAL_STORE": {
+    "npcs": [
+      -1
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Nardah General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "ARNOLDS_ECLECTIC_SUPPLIES": {
+    "npcs": [
+      3824
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Arnold's Eclectic Supplies",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "POLLNIVNEACH_GENERAL_STORE": {
+    "npcs": [
+      1866
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Pollnivneach General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "PORT_PHASMATYS_GENERAL_STORE": {
+    "npcs": [
+      1699
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Port Phasmatys General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "RIMMINGTON_GENERAL_STORE": {
+    "npcs": [
+      530,
+      531
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Rimmington General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "SHANTAY_PASS_SHOP": {
+    "npcs": [
+      836
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Shantay Pass Shop",
+    "items": [
+      {
+        "id": 1823,
+        "quantity": 100
+      },
+      {
+        "id": 1831,
+        "quantity": 100
+      },
+      {
+        "id": 1937,
+        "quantity": 10
+      },
+      {
+        "id": 1921,
+        "quantity": 10
+      },
+      {
+        "id": 1929,
+        "quantity": 10
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 1833,
+        "quantity": 10
+      },
+      {
+        "id": 1835,
+        "quantity": 10
+      },
+      {
+        "id": 1837,
+        "quantity": 10
+      },
+      {
+        "id": 2349,
+        "quantity": 10
+      },
+      {
+        "id": 314,
+        "quantity": 500
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 0
+      },
+      {
+        "id": 1923,
+        "quantity": 0
+      },
+      {
+        "id": 1935,
+        "quantity": 0
+      },
+      {
+        "id": 1854,
+        "quantity": 500
+      },
+      {
+        "id": 954,
+        "quantity": 20
+      }
+    ]
+  },
+  "OBLIS_GENERAL_STORE": {
+    "npcs": [
+      516
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Obli's General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "JIMINUAS_JUNGLE_STORE": {
+    "npcs": [
+      560
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Jiminua's Jungle Store",
+    "items": [
+      {
+        "id": 20590,
+        "quantity": 2
+      },
+      {
+        "id": 36,
+        "quantity": 10
+      },
+      {
+        "id": 596,
+        "quantity": 10
+      },
+      {
+        "id": 1931,
+        "quantity": 3
+      },
+      {
+        "id": 954,
+        "quantity": 10
+      },
+      {
+        "id": 1129,
+        "quantity": 12
+      },
+      {
+        "id": 1059,
+        "quantity": 10
+      },
+      {
+        "id": 1061,
+        "quantity": 10
+      },
+      {
+        "id": 2142,
+        "quantity": 2
+      },
+      {
+        "id": 2309,
+        "quantity": 8
+      },
+      {
+        "id": 227,
+        "quantity": 310
+      },
+      {
+        "id": 233,
+        "quantity": 300
+      },
+      {
+        "id": 175,
+        "quantity": 10
+      },
+      {
+        "id": 970,
+        "quantity": 10
+      },
+      {
+        "id": 973,
+        "quantity": 10
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 975,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 952,
+        "quantity": 10
+      },
+      {
+        "id": 1351,
+        "quantity": 10
+      },
+      {
+        "id": 1265,
+        "quantity": 10
+      },
+      {
+        "id": 1349,
+        "quantity": 10
+      }
+    ]
+  },
+  "BOLKOYS_VILLAGE_SHOP": {
+    "npcs": [
+      471
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Bolkoy's Village Shop",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "QUARTERMASTERS_STORES": {
+    "npcs": [
+      1208
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Quartermaster's Stores",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 10
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 2309,
+        "quantity": 10
+      },
+      {
+        "id": 3190,
+        "quantity": 10
+      },
+      {
+        "id": 3192,
+        "quantity": 10
+      },
+      {
+        "id": 3194,
+        "quantity": 10
+      },
+      {
+        "id": 3196,
+        "quantity": 10
+      },
+      {
+        "id": 3198,
+        "quantity": 10
+      },
+      {
+        "id": 3200,
+        "quantity": 10
+      },
+      {
+        "id": 3202,
+        "quantity": 10
+      },
+      {
+        "id": 3204,
+        "quantity": 10
+      }
+    ]
+  },
+  "VARROCK_GENERAL_STORE": {
+    "npcs": [
+      522,
+      523
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Varrock General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "TRADER_STANS_TRADING_POST": {
+    "npcs": [
+      4651,
+      4652,
+      4653,
+      4654,
+      4655,
+      4656,
+      4650
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Trader Stan's Trading Post",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 5
+      },
+      {
+        "id": 1935,
+        "quantity": 2
+      },
+      {
+        "id": 1735,
+        "quantity": 2
+      },
+      {
+        "id": 1925,
+        "quantity": 3
+      },
+      {
+        "id": 1923,
+        "quantity": 2
+      },
+      {
+        "id": 1887,
+        "quantity": 2
+      },
+      {
+        "id": 20590,
+        "quantity": 2
+      },
+      {
+        "id": 1755,
+        "quantity": 2
+      },
+      {
+        "id": 2347,
+        "quantity": 5
+      },
+      {
+        "id": 550,
+        "quantity": 5
+      },
+      {
+        "id": 9003,
+        "quantity": 5
+      },
+      {
+        "id": 954,
+        "quantity": 2
+      },
+      {
+        "id": 946,
+        "quantity": 2
+      },
+      {
+        "id": 2114,
+        "quantity": 14
+      },
+      {
+        "id": 1963,
+        "quantity": 15
+      },
+      {
+        "id": 2108,
+        "quantity": 10
+      },
+      {
+        "id": 4286,
+        "quantity": 10
+      },
+      {
+        "id": 1785,
+        "quantity": 15
+      },
+      {
+        "id": 1783,
+        "quantity": 10
+      },
+      {
+        "id": 401,
+        "quantity": 20
+      },
+      {
+        "id": 1781,
+        "quantity": 10
+      },
+      {
+        "id": 301,
+        "quantity": 20
+      },
+      {
+        "id": 307,
+        "quantity": 20
+      },
+      {
+        "id": 1941,
+        "quantity": 30
+      },
+      {
+        "id": 9629,
+        "quantity": 25
+      },
+      {
+        "id": 3226,
+        "quantity": 20
+      },
+      {
+        "id": 1025,
+        "quantity": 5
+      }
+    ]
+  },
+  "ZANARIS_GENERAL_STORE": {
+    "npcs": [
+      534
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Zanaris General Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "DAVONS_AMULET_STORE": {
+    "npcs": [
+      588
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Davon's Amulet Store",
+    "items": [
+      {
+        "id": 1718,
+        "quantity": 0
+      },
+      {
+        "id": 1727,
+        "quantity": 1
+      },
+      {
+        "id": 1729,
+        "quantity": 0
+      },
+      {
+        "id": 1725,
+        "quantity": 0
+      },
+      {
+        "id": 1731,
+        "quantity": 0
+      }
+    ]
+  },
+  "LLETYA_ARCHERY_SHOP": {
+    "npcs": [
+      2356
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Lletya Archery Shop",
+    "items": [
+      {
+        "id": 884,
+        "quantity": 1000
+      },
+      {
+        "id": 886,
+        "quantity": 300
+      },
+      {
+        "id": 888,
+        "quantity": 100
+      },
+      {
+        "id": 890,
+        "quantity": 100
+      },
+      {
+        "id": 892,
+        "quantity": 30
+      },
+      {
+        "id": 877,
+        "quantity": 1000
+      },
+      {
+        "id": 843,
+        "quantity": 10
+      },
+      {
+        "id": 837,
+        "quantity": 10
+      },
+      {
+        "id": 849,
+        "quantity": 10
+      }
+    ]
+  },
+  "VOID_KNIGHT_ARCHERY_STORE": {
+    "npcs": [
+      3796
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Void Knight Archery Store",
+    "items": [
+      {
+        "id": 825,
+        "quantity": 300
+      },
+      {
+        "id": 826,
+        "quantity": 300
+      },
+      {
+        "id": 827,
+        "quantity": 100
+      },
+      {
+        "id": 828,
+        "quantity": 100
+      },
+      {
+        "id": 829,
+        "quantity": 250
+      },
+      {
+        "id": 830,
+        "quantity": 10
+      },
+      {
+        "id": 39,
+        "quantity": 100
+      },
+      {
+        "id": 40,
+        "quantity": 100
+      },
+      {
+        "id": 41,
+        "quantity": 100
+      },
+      {
+        "id": 42,
+        "quantity": 30
+      },
+      {
+        "id": 43,
+        "quantity": 30
+      },
+      {
+        "id": 44,
+        "quantity": 10
+      }
+    ]
+  },
+  "BRIANS_ARCHERY_SUPPLIES": {
+    "npcs": [
+      1860
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Brians Archery Supplies",
+    "items": [
+      {
+        "id": 886,
+        "quantity": 100
+      },
+      {
+        "id": 888,
+        "quantity": 30
+      },
+      {
+        "id": 890,
+        "quantity": 0
+      },
+      {
+        "id": 843,
+        "quantity": 10
+      },
+      {
+        "id": 849,
+        "quantity": 10
+      },
+      {
+        "id": 853,
+        "quantity": 10
+      }
+    ]
+  },
+  "HICKTONS_ARCHERY_EMPORIUM": {
+    "npcs": [
+      575
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Hicktons Archery Emporium",
+    "items": [
+      {
+        "id": 877,
+        "quantity": 300
+      },
+      {
+        "id": 882,
+        "quantity": 1000
+      },
+      {
+        "id": 884,
+        "quantity": 100
+      },
+      {
+        "id": 886,
+        "quantity": 0
+      },
+      {
+        "id": 888,
+        "quantity": 0
+      },
+      {
+        "id": 890,
+        "quantity": 0
+      },
+      {
+        "id": 892,
+        "quantity": 0
+      },
+      {
+        "id": 4773,
+        "quantity": 0
+      },
+      {
+        "id": 4778,
+        "quantity": 0
+      },
+      {
+        "id": 4783,
+        "quantity": 0
+      },
+      {
+        "id": 4788,
+        "quantity": 0
+      },
+      {
+        "id": 4793,
+        "quantity": 0
+      },
+      {
+        "id": 4798,
+        "quantity": 0
+      },
+      {
+        "id": 4803,
+        "quantity": 0
+      },
+      {
+        "id": 841,
+        "quantity": 10
+      },
+      {
+        "id": 837,
+        "quantity": 10
+      },
+      {
+        "id": 843,
+        "quantity": 10
+      },
+      {
+        "id": 4827,
+        "quantity": 10
+      },
+      {
+        "id": 1133,
+        "quantity": 10
+      },
+      {
+        "id": 1097,
+        "quantity": 10
+      }
+    ]
+  },
+  "DARGAUDS_BOWS_AND_ARROWS": {
+    "npcs": [
+      683
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Dargauds Bows And Arrows",
+    "items": [
+      {
+        "id": 52,
+        "quantity": 1000
+      },
+      {
+        "id": 39,
+        "quantity": 1000
+      },
+      {
+        "id": 40,
+        "quantity": 300
+      },
+      {
+        "id": 41,
+        "quantity": 300
+      },
+      {
+        "id": 42,
+        "quantity": 100
+      },
+      {
+        "id": 43,
+        "quantity": 100
+      },
+      {
+        "id": 44,
+        "quantity": 100
+      },
+      {
+        "id": 882,
+        "quantity": 1000
+      },
+      {
+        "id": 884,
+        "quantity": 300
+      },
+      {
+        "id": 886,
+        "quantity": 300
+      },
+      {
+        "id": 888,
+        "quantity": 100
+      },
+      {
+        "id": 890,
+        "quantity": 100
+      },
+      {
+        "id": 892,
+        "quantity": 100
+      },
+      {
+        "id": 4773,
+        "quantity": 0
+      },
+      {
+        "id": 4778,
+        "quantity": 0
+      },
+      {
+        "id": 4783,
+        "quantity": 0
+      },
+      {
+        "id": 4788,
+        "quantity": 0
+      },
+      {
+        "id": 4793,
+        "quantity": 0
+      },
+      {
+        "id": 4798,
+        "quantity": 0
+      },
+      {
+        "id": 4803,
+        "quantity": 0
+      },
+      {
+        "id": 841,
+        "quantity": 10
+      },
+      {
+        "id": 843,
+        "quantity": 10
+      },
+      {
+        "id": 849,
+        "quantity": 10
+      },
+      {
+        "id": 839,
+        "quantity": 20
+      },
+      {
+        "id": 845,
+        "quantity": 20
+      },
+      {
+        "id": 847,
+        "quantity": 20
+      },
+      {
+        "id": 4827,
+        "quantity": 10
+      }
+    ]
+  },
+  "AARONS_ARCHERY_APPENDAGES": {
+    "npcs": [
+      682
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Aarons Archery Appendages",
+    "items": [
+      {
+        "id": 1129,
+        "quantity": 10
+      },
+      {
+        "id": 1131,
+        "quantity": 10
+      },
+      {
+        "id": 1133,
+        "quantity": 10
+      },
+      {
+        "id": 1095,
+        "quantity": 10
+      },
+      {
+        "id": 1097,
+        "quantity": 10
+      },
+      {
+        "id": 1169,
+        "quantity": 10
+      },
+      {
+        "id": 1167,
+        "quantity": 10
+      },
+      {
+        "id": 1063,
+        "quantity": 10
+      }
+    ]
+  },
+  "CROSSBOW_SHOP_DWARVEN_MINE": {
+    "npcs": [
+      4563
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Crossbow Shop (dwarven Mine)",
+    "items": [
+      {
+        "id": 9440,
+        "quantity": 10
+      },
+      {
+        "id": 9442,
+        "quantity": 10
+      },
+      {
+        "id": 9444,
+        "quantity": 10
+      },
+      {
+        "id": 9446,
+        "quantity": 10
+      },
+      {
+        "id": 9448,
+        "quantity": 10
+      },
+      {
+        "id": 9450,
+        "quantity": 10
+      },
+      {
+        "id": 9452,
+        "quantity": 0
+      },
+      {
+        "id": 9420,
+        "quantity": 10
+      },
+      {
+        "id": 9423,
+        "quantity": 10
+      },
+      {
+        "id": 9425,
+        "quantity": 10
+      },
+      {
+        "id": 9427,
+        "quantity": 10
+      },
+      {
+        "id": 9429,
+        "quantity": 10
+      },
+      {
+        "id": 9431,
+        "quantity": 0
+      }
+    ]
+  },
+  "CROSSBOW_SHOP_KELDAGRIM": {
+    "npcs": [
+      4558
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Crossbow Shop (keldagrim)",
+    "items": [
+      {
+        "id": 9440,
+        "quantity": 10
+      },
+      {
+        "id": 9442,
+        "quantity": 10
+      },
+      {
+        "id": 9444,
+        "quantity": 10
+      },
+      {
+        "id": 9446,
+        "quantity": 10
+      },
+      {
+        "id": 9448,
+        "quantity": 10
+      },
+      {
+        "id": 9450,
+        "quantity": 10
+      },
+      {
+        "id": 9452,
+        "quantity": 0
+      },
+      {
+        "id": 9420,
+        "quantity": 10
+      },
+      {
+        "id": 9423,
+        "quantity": 10
+      },
+      {
+        "id": 9425,
+        "quantity": 10
+      },
+      {
+        "id": 9427,
+        "quantity": 10
+      },
+      {
+        "id": 9429,
+        "quantity": 10
+      },
+      {
+        "id": 9431,
+        "quantity": 0
+      }
+    ]
+  },
+  "CROSSBOW_SHOP_WHITE_WOLF_MOUNTAIN": {
+    "npcs": [
+      4559
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Crossbow Shop (white Wolf Mountain)",
+    "items": [
+      {
+        "id": 9440,
+        "quantity": 10
+      },
+      {
+        "id": 9442,
+        "quantity": 10
+      },
+      {
+        "id": 9444,
+        "quantity": 10
+      },
+      {
+        "id": 9446,
+        "quantity": 10
+      },
+      {
+        "id": 9448,
+        "quantity": 10
+      },
+      {
+        "id": 9450,
+        "quantity": 10
+      },
+      {
+        "id": 9452,
+        "quantity": 0
+      },
+      {
+        "id": 9420,
+        "quantity": 10
+      },
+      {
+        "id": 9423,
+        "quantity": 10
+      },
+      {
+        "id": 9425,
+        "quantity": 10
+      },
+      {
+        "id": 9427,
+        "quantity": 10
+      },
+      {
+        "id": 9429,
+        "quantity": 10
+      },
+      {
+        "id": 9431,
+        "quantity": 0
+      }
+    ]
+  },
+  "BOBS_BRILLIANT_AXES": {
+    "npcs": [
+      519
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Bobs Brilliant Axes",
+    "items": [
+      {
+        "id": 1265,
+        "quantity": 10
+      },
+      {
+        "id": 1267,
+        "quantity": 10
+      },
+      {
+        "id": 1269,
+        "quantity": 10
+      },
+      {
+        "id": 1273,
+        "quantity": 10
+      },
+      {
+        "id": 1271,
+        "quantity": 10
+      },
+      {
+        "id": 1275,
+        "quantity": 1
+      },
+      {
+        "id": 1351,
+        "quantity": 10
+      },
+      {
+        "id": 1349,
+        "quantity": 10
+      },
+      {
+        "id": 1353,
+        "quantity": 10
+      },
+      {
+        "id": 1355,
+        "quantity": 10
+      },
+      {
+        "id": 1357,
+        "quantity": 10
+      },
+      {
+        "id": 1359,
+        "quantity": 1
+      },
+      {
+        "id": 1363,
+        "quantity": 10
+      },
+      {
+        "id": 1365,
+        "quantity": 10
+      },
+      {
+        "id": 1369,
+        "quantity": 10
+      }
+    ]
+  },
+  "BRIANS_BATTLEAXE_BAZAAR": {
+    "npcs": [
+      559
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Brians Battleaxe Bazaar",
+    "items": [
+      {
+        "id": 1375,
+        "quantity": 10
+      },
+      {
+        "id": 1363,
+        "quantity": 10
+      },
+      {
+        "id": 1365,
+        "quantity": 10
+      },
+      {
+        "id": 1367,
+        "quantity": 10
+      },
+      {
+        "id": 1369,
+        "quantity": 10
+      },
+      {
+        "id": 1371,
+        "quantity": 10
+      }
+    ]
+  },
+  "CANDLE_SHOP_TYPE": {
+    "npcs": [
+      562
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Candle Shop (type)",
+    "items": [
+      {
+        "id": 36,
+        "quantity": 10
+      },
+      {
+        "id": 38,
+        "quantity": 10
+      }
+    ]
+  },
+  "CANDLE_SHOP_TYPE1": {
+    "npcs": [
+      562
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Candle Shop (type)",
+    "items": [
+      {
+        "id": 36,
+        "quantity": 10
+      },
+      {
+        "id": 38,
+        "quantity": 10
+      }
+    ]
+  },
+  "CHAINMAIL_SHOP": {
+    "npcs": [
+      581
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Chainmail Shop",
+    "items": [
+      {
+        "id": 1103,
+        "quantity": 10
+      },
+      {
+        "id": 1101,
+        "quantity": 10
+      },
+      {
+        "id": 1105,
+        "quantity": 10
+      },
+      {
+        "id": 1107,
+        "quantity": 10
+      },
+      {
+        "id": 1109,
+        "quantity": 10
+      },
+      {
+        "id": 1111,
+        "quantity": 10
+      }
+    ]
+  },
+  "FANCY_CLOTHES_STORE": {
+    "npcs": [
+      554
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Fancy Clothes Store",
+    "items": [
+      {
+        "id": 1949,
+        "quantity": 10
+      },
+      {
+        "id": 958,
+        "quantity": 10
+      },
+      {
+        "id": 948,
+        "quantity": 10
+      },
+      {
+        "id": 1733,
+        "quantity": 10
+      },
+      {
+        "id": 1734,
+        "quantity": 1000
+      },
+      {
+        "id": 1059,
+        "quantity": 30
+      },
+      {
+        "id": 1061,
+        "quantity": 10
+      },
+      {
+        "id": 1757,
+        "quantity": 10
+      },
+      {
+        "id": 1013,
+        "quantity": 10
+      },
+      {
+        "id": 1025,
+        "quantity": 10
+      },
+      {
+        "id": 10088,
+        "quantity": 0
+      },
+      {
+        "id": 10090,
+        "quantity": 0
+      },
+      {
+        "id": 10091,
+        "quantity": 0
+      },
+      {
+        "id": 10089,
+        "quantity": 0
+      },
+      {
+        "id": 10087,
+        "quantity": 0
+      },
+      {
+        "id": 11525,
+        "quantity": 0
+      }
+    ]
+  },
+  "THESSALIAS_FINE_CLOTHES": {
+    "npcs": [
+      548
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Thessalias Fine Clothes",
+    "items": [
+      {
+        "id": 1005,
+        "quantity": 10
+      },
+      {
+        "id": 1129,
+        "quantity": 10
+      },
+      {
+        "id": 1059,
+        "quantity": 10
+      },
+      {
+        "id": 1061,
+        "quantity": 10
+      },
+      {
+        "id": 1757,
+        "quantity": 10
+      },
+      {
+        "id": 1013,
+        "quantity": 10
+      },
+      {
+        "id": 1015,
+        "quantity": 10
+      },
+      {
+        "id": 1011,
+        "quantity": 10
+      },
+      {
+        "id": 1007,
+        "quantity": 10
+      },
+      {
+        "id": 950,
+        "quantity": 10
+      },
+      {
+        "id": 426,
+        "quantity": 10
+      },
+      {
+        "id": 428,
+        "quantity": 10
+      }
+    ]
+  },
+  "FINE_FASHIONS": {
+    "npcs": [
+      601
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Fine Fashions",
+    "items": [
+      {
+        "id": 646,
+        "quantity": 30
+      },
+      {
+        "id": 648,
+        "quantity": 30
+      },
+      {
+        "id": 650,
+        "quantity": 30
+      },
+      {
+        "id": 652,
+        "quantity": 30
+      },
+      {
+        "id": 654,
+        "quantity": 30
+      },
+      {
+        "id": 656,
+        "quantity": 30
+      },
+      {
+        "id": 658,
+        "quantity": 30
+      },
+      {
+        "id": 660,
+        "quantity": 30
+      },
+      {
+        "id": 662,
+        "quantity": 30
+      },
+      {
+        "id": 664,
+        "quantity": 30
+      },
+      {
+        "id": 636,
+        "quantity": 30
+      },
+      {
+        "id": 638,
+        "quantity": 30
+      },
+      {
+        "id": 640,
+        "quantity": 30
+      },
+      {
+        "id": 642,
+        "quantity": 30
+      },
+      {
+        "id": 644,
+        "quantity": 30
+      },
+      {
+        "id": 626,
+        "quantity": 30
+      },
+      {
+        "id": 628,
+        "quantity": 30
+      },
+      {
+        "id": 630,
+        "quantity": 30
+      },
+      {
+        "id": 632,
+        "quantity": 30
+      },
+      {
+        "id": 634,
+        "quantity": 30
+      }
+    ]
+  },
+  "YRSAS_ACCOUTREMENTS": {
+    "npcs": [
+      1301
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Yrsas Accoutrements",
+    "items": [
+      {
+        "id": 3791,
+        "quantity": 10
+      },
+      {
+        "id": 3797,
+        "quantity": 10
+      },
+      {
+        "id": 3793,
+        "quantity": 10
+      },
+      {
+        "id": 3795,
+        "quantity": 10
+      }
+    ]
+  },
+  "BARKERS_HABERDASHERY": {
+    "npcs": [
+      1039
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Barkers Haberdashery",
+    "items": [
+      {
+        "id": 2894,
+        "quantity": 5
+      },
+      {
+        "id": 2896,
+        "quantity": 5
+      },
+      {
+        "id": 2898,
+        "quantity": 5
+      },
+      {
+        "id": 2900,
+        "quantity": 5
+      },
+      {
+        "id": 2902,
+        "quantity": 5
+      },
+      {
+        "id": 2904,
+        "quantity": 5
+      },
+      {
+        "id": 2906,
+        "quantity": 5
+      },
+      {
+        "id": 2908,
+        "quantity": 5
+      },
+      {
+        "id": 2910,
+        "quantity": 5
+      },
+      {
+        "id": 2912,
+        "quantity": 5
+      },
+      {
+        "id": 2914,
+        "quantity": 5
+      },
+      {
+        "id": 2916,
+        "quantity": 5
+      },
+      {
+        "id": 2918,
+        "quantity": 5
+      },
+      {
+        "id": 2920,
+        "quantity": 5
+      },
+      {
+        "id": 2922,
+        "quantity": 5
+      },
+      {
+        "id": 2924,
+        "quantity": 5
+      },
+      {
+        "id": 2926,
+        "quantity": 5
+      },
+      {
+        "id": 2928,
+        "quantity": 5
+      },
+      {
+        "id": 2930,
+        "quantity": 5
+      },
+      {
+        "id": 2932,
+        "quantity": 5
+      },
+      {
+        "id": 2934,
+        "quantity": 5
+      },
+      {
+        "id": 2936,
+        "quantity": 5
+      },
+      {
+        "id": 2938,
+        "quantity": 5
+      },
+      {
+        "id": 2940,
+        "quantity": 5
+      },
+      {
+        "id": 2942,
+        "quantity": 5
+      },
+      {
+        "id": 1007,
+        "quantity": 5
+      },
+      {
+        "id": 1023,
+        "quantity": 5
+      },
+      {
+        "id": 1019,
+        "quantity": 5
+      },
+      {
+        "id": 1021,
+        "quantity": 5
+      },
+      {
+        "id": 1027,
+        "quantity": 5
+      }
+    ]
+  },
+  "LLETYA_SEAMSTRESS": {
+    "npcs": [
+      2353
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Lletya Seamstress",
+    "items": [
+      {
+        "id": 1734,
+        "quantity": 1000
+      },
+      {
+        "id": 1733,
+        "quantity": 10
+      },
+      {
+        "id": 1759,
+        "quantity": 100
+      },
+      {
+        "id": 1763,
+        "quantity": 10
+      },
+      {
+        "id": 1765,
+        "quantity": 10
+      },
+      {
+        "id": 1767,
+        "quantity": 10
+      },
+      {
+        "id": 1769,
+        "quantity": 10
+      },
+      {
+        "id": 1771,
+        "quantity": 10
+      },
+      {
+        "id": 1773,
+        "quantity": 10
+      }
+    ]
+  },
+  "DODGY_MIKES_SECOND_HANDLOTHING": {
+    "npcs": [
+      5509
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Second-hand Clothing",
+    "items": [
+      {
+        "id": 7114,
+        "quantity": 10
+      }
+    ]
+  },
+  "ARHEINS_STORE": {
+    "npcs": [
+      563
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Arhein's Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "DWARVEN_SHOPPING_STORE": {
+    "npcs": [
+      582
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Dwarven Shopping Store",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "GENERAL_STOREC_CANIFIS_": {
+    "npcs": [
+      1040
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "General Store (Canifis)",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "BURTHORPE_SUPPLIES": {
+    "npcs": [
+      1083
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Burthorpe Supplies",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 30
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 550,
+        "quantity": 10
+      },
+      {
+        "id": 9003,
+        "quantity": 10
+      }
+    ]
+  },
+  "AEMADS_ADVENTURING_SUPPLIES": {
+    "npcs": [
+      590
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Aemad's Adventuring Supplies Store",
+    "items": [
+      {
+        "id": 1759,
+        "quantity": 100
+      },
+      {
+        "id": 882,
+        "quantity": 1000
+      },
+      {
+        "id": 1265,
+        "quantity": 10
+      },
+      {
+        "id": 2142,
+        "quantity": 10
+      },
+      {
+        "id": 1349,
+        "quantity": 10
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 970,
+        "quantity": 10
+      },
+      {
+        "id": 954,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 227,
+        "quantity": 10
+      }
+    ]
+  },
+  "KARAMJA_WINES_SPIRITS_AND_BEERS": {
+    "npcs": [
+      568
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Karamja Wines, Spirits, and Beers",
+    "items": [
+      {
+        "id": 1917,
+        "quantity": 3
+      },
+      {
+        "id": 431,
+        "quantity": 3
+      },
+      {
+        "id": 1993,
+        "quantity": 1
+      }
+    ]
+  },
+  "AGMUNDI_QUALITY_CLOTHES": {
+    "npcs": [
+      2161
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Agmundi Quality Clothes",
+    "items": []
+  },
+  "VERMUNDIS_CLOTHES_STALL": {
+    "npcs": [
+      2162
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "_CVermundis Clothes Stall",
+    "items": [
+      {
+        "id": 950,
+        "quantity": 10
+      }
+    ]
+  },
+  "GRAND_TREE_GROCERIES": {
+    "npcs": [
+      600
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Grand Tree Groceries",
+    "items": [
+      {
+        "id": 2171,
+        "quantity": 10
+      },
+      {
+        "id": 2128,
+        "quantity": 10
+      },
+      {
+        "id": 1933,
+        "quantity": 10
+      },
+      {
+        "id": 2169,
+        "quantity": 10
+      },
+      {
+        "id": 1957,
+        "quantity": 10
+      },
+      {
+        "id": 1967,
+        "quantity": 10
+      },
+      {
+        "id": 1982,
+        "quantity": 10
+      },
+      {
+        "id": 1985,
+        "quantity": 10
+      },
+      {
+        "id": 2120,
+        "quantity": 10
+      },
+      {
+        "id": 2108,
+        "quantity": 10
+      },
+      {
+        "id": 2102,
+        "quantity": 10
+      },
+      {
+        "id": 2114,
+        "quantity": 10
+      },
+      {
+        "id": 2126,
+        "quantity": 10
+      },
+      {
+        "id": 2025,
+        "quantity": 10
+      },
+      {
+        "id": 1973,
+        "quantity": 10
+      },
+      {
+        "id": 1975,
+        "quantity": 10
+      },
+      {
+        "id": 2130,
+        "quantity": 10
+      },
+      {
+        "id": 1927,
+        "quantity": 10
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 2167,
+        "quantity": 10
+      },
+      {
+        "id": 2164,
+        "quantity": 10
+      },
+      {
+        "id": 2165,
+        "quantity": 10
+      },
+      {
+        "id": 2166,
+        "quantity": 10
+      }
+    ]
+  },
+  "FRENITAS_COOKERY_SHOP": {
+    "npcs": [
+      593
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Frenitas Cookery Shop",
+    "items": [
+      {
+        "id": 2313,
+        "quantity": 10
+      },
+      {
+        "id": 1955,
+        "quantity": 0
+      },
+      {
+        "id": 1887,
+        "quantity": 10
+      },
+      {
+        "id": 1923,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1935,
+        "quantity": 10
+      },
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1973,
+        "quantity": 10
+      },
+      {
+        "id": 1933,
+        "quantity": 500
+      },
+      {
+        "id": 1980,
+        "quantity": 10
+      }
+    ]
+  },
+  "DOMMIKS_CRAFTING_STORE": {
+    "npcs": [
+      545
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Dommiks Crafting Store",
+    "items": [
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 1592,
+        "quantity": 10
+      },
+      {
+        "id": 1597,
+        "quantity": 10
+      },
+      {
+        "id": 1595,
+        "quantity": 10
+      },
+      {
+        "id": 1733,
+        "quantity": 10
+      },
+      {
+        "id": 1734,
+        "quantity": 1000
+      },
+      {
+        "id": 1599,
+        "quantity": 10
+      },
+      {
+        "id": 2976,
+        "quantity": 10
+      },
+      {
+        "id": 5523,
+        "quantity": 10
+      },
+      {
+        "id": 9434,
+        "quantity": 10
+      },
+      {
+        "id": 11065,
+        "quantity": 10
+      }
+    ]
+  },
+  "ROMMIKS_CRAFTY_SUPPLIES": {
+    "npcs": [
+      585
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Rommiks Crafty Supplies",
+    "items": [
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 1592,
+        "quantity": 10
+      },
+      {
+        "id": 1597,
+        "quantity": 10
+      },
+      {
+        "id": 1595,
+        "quantity": 10
+      },
+      {
+        "id": 1733,
+        "quantity": 10
+      },
+      {
+        "id": 1734,
+        "quantity": 1000
+      },
+      {
+        "id": 1599,
+        "quantity": 10
+      },
+      {
+        "id": 2976,
+        "quantity": 10
+      },
+      {
+        "id": 5523,
+        "quantity": 10
+      },
+      {
+        "id": 9434,
+        "quantity": 10
+      },
+      {
+        "id": 11065,
+        "quantity": 10
+      }
+    ]
+  },
+  "JAMILAS_CRAFT_STALL": {
+    "npcs": [
+      5268
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Jamilas Craft Stall",
+    "items": [
+      {
+        "id": 1755,
+        "quantity": 10
+      },
+      {
+        "id": 1592,
+        "quantity": 10
+      },
+      {
+        "id": 1597,
+        "quantity": 10
+      },
+      {
+        "id": 1595,
+        "quantity": 10
+      },
+      {
+        "id": 1733,
+        "quantity": 10
+      },
+      {
+        "id": 1734,
+        "quantity": 1000
+      },
+      {
+        "id": 1599,
+        "quantity": 10
+      },
+      {
+        "id": 2976,
+        "quantity": 10
+      },
+      {
+        "id": 5523,
+        "quantity": 10
+      },
+      {
+        "id": 11065,
+        "quantity": 10
+      }
+    ]
+  },
+  "VANESSAS_FARMING_SHOP": {
+    "npcs": [
+      2305
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 995,
+    "title": "Vanessas Farming Shop",
+    "items": [
+      {
+        "id": 6032,
+        "quantity": 300
+      },
+      {
+        "id": 5341,
+        "quantity": 10
+      },
+      {
+        "id": 5325,
+        "quantity": 10
+      },
+      {
+        "id": 6036,
+        "quantity": 10
+      },
+      {
+        "id": 5343,
+        "quantity": 10
+      },
+      {
+        "id": 5331,
+        "quantity": 30
+      },
+      {
+        "id": 5329,
+        "quantity": 10
+      },
+      {
+        "id": 952,
+        "quantity": 10
+      },
+      {
+        "id": 5354,
+        "quantity": 100
+      },
+      {
+        "id": 1925,
+        "quantity": 100
+      },
+      {
+        "id": 5418,
+        "quantity": 10
+      },
+      {
+        "id": 5376,
+        "quantity": 10
+      },
+      {
+        "id": 5996,
+        "quantity": 0
+      },
+      {
+        "id": 6006,
+        "quantity": 0
+      },
+      {
+        "id": 1967,
+        "quantity": 0
+      },
+      {
+        "id": 5994,
+        "quantity": 0
+      },
+      {
+        "id": 5931,
+        "quantity": 0
+      },
+      {
+        "id": 6000,
+        "quantity": 0
+      },
+      {
+        "id": 1957,
+        "quantity": 0
+      },
+      {
+        "id": 5504,
+        "quantity": 0
+      },
+      {
+        "id": 5986,
+        "quantity": 0
+      },
+      {
+        "id": 1982,
+        "quantity": 0
+      },
+      {
+        "id": 5982,
+        "quantity": 0
+      },
+      {
+        "id": 6002,
+        "quantity": 0
+      },
+      {
+        "id": 5998,
+        "quantity": 0
+      }
+    ]
+  },
+  "ALICES_FARMING_SHOP": {
+    "npcs": [
+      2307
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 995,
+    "title": "Alices Farming Shop",
+    "items": [
+      {
+        "id": 5376,
+        "quantity": 20
+      },
+      {
+        "id": 6032,
+        "quantity": 300
+      },
+      {
+        "id": 5418,
+        "quantity": 10
+      },
+      {
+        "id": 6036,
+        "quantity": 10
+      },
+      {
+        "id": 5354,
+        "quantity": 100
+      },
+      {
+        "id": 5341,
+        "quantity": 10
+      },
+      {
+        "id": 5329,
+        "quantity": 10
+      },
+      {
+        "id": 5343,
+        "quantity": 10
+      },
+      {
+        "id": 952,
+        "quantity": 10
+      },
+      {
+        "id": 5325,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 100
+      },
+      {
+        "id": 5331,
+        "quantity": 30
+      },
+      {
+        "id": 5996,
+        "quantity": 0
+      },
+      {
+        "id": 6006,
+        "quantity": 0
+      },
+      {
+        "id": 1967,
+        "quantity": 0
+      },
+      {
+        "id": 5994,
+        "quantity": 0
+      },
+      {
+        "id": 5931,
+        "quantity": 0
+      },
+      {
+        "id": 6000,
+        "quantity": 0
+      },
+      {
+        "id": 1957,
+        "quantity": 0
+      },
+      {
+        "id": 5504,
+        "quantity": 0
+      },
+      {
+        "id": 5986,
+        "quantity": 0
+      },
+      {
+        "id": 1982,
+        "quantity": 0
+      },
+      {
+        "id": 5982,
+        "quantity": 0
+      },
+      {
+        "id": 6002,
+        "quantity": 0
+      },
+      {
+        "id": 5998,
+        "quantity": 0
+      }
+    ]
+  },
+  "SARAHS_FARMING_SHOP": {
+    "npcs": [
+      2304
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 995,
+    "title": "Sarahs Farming Shop",
+    "items": [
+      {
+        "id": 5376,
+        "quantity": 20
+      },
+      {
+        "id": 6032,
+        "quantity": 300
+      },
+      {
+        "id": 5418,
+        "quantity": 10
+      },
+      {
+        "id": 6036,
+        "quantity": 10
+      },
+      {
+        "id": 5354,
+        "quantity": 100
+      },
+      {
+        "id": 5341,
+        "quantity": 10
+      },
+      {
+        "id": 5329,
+        "quantity": 10
+      },
+      {
+        "id": 5343,
+        "quantity": 10
+      },
+      {
+        "id": 952,
+        "quantity": 10
+      },
+      {
+        "id": 5325,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 100
+      },
+      {
+        "id": 5331,
+        "quantity": 30
+      },
+      {
+        "id": 5996,
+        "quantity": 0
+      },
+      {
+        "id": 6006,
+        "quantity": 0
+      },
+      {
+        "id": 1967,
+        "quantity": 0
+      },
+      {
+        "id": 5994,
+        "quantity": 0
+      },
+      {
+        "id": 5931,
+        "quantity": 0
+      },
+      {
+        "id": 6000,
+        "quantity": 0
+      },
+      {
+        "id": 1957,
+        "quantity": 0
+      },
+      {
+        "id": 5504,
+        "quantity": 0
+      },
+      {
+        "id": 5986,
+        "quantity": 0
+      },
+      {
+        "id": 1982,
+        "quantity": 0
+      },
+      {
+        "id": 5982,
+        "quantity": 0
+      },
+      {
+        "id": 6002,
+        "quantity": 0
+      },
+      {
+        "id": 5998,
+        "quantity": 0
+      }
+    ]
+  },
+  "WYDINS_FOOD_STORE": {
+    "npcs": [
+      557
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Wydins Consumables Store",
+    "items": [
+      {
+        "id": 1933,
+        "quantity": 500
+      },
+      {
+        "id": 2132,
+        "quantity": 10
+      },
+      {
+        "id": 2138,
+        "quantity": 10
+      },
+      {
+        "id": 1967,
+        "quantity": 10
+      },
+      {
+        "id": 1963,
+        "quantity": 1
+      },
+      {
+        "id": 1951,
+        "quantity": 1
+      },
+      {
+        "id": 2309,
+        "quantity": 10
+      },
+      {
+        "id": 1973,
+        "quantity": 10
+      },
+      {
+        "id": 1985,
+        "quantity": 10
+      },
+      {
+        "id": 1982,
+        "quantity": 10
+      },
+      {
+        "id": 1550,
+        "quantity": 10
+      }
+    ]
+  },
+  "RUFUSS_MEAT_EMPORIUM": {
+    "npcs": [
+      1038
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Rufuss Meat Emporium",
+    "items": [
+      {
+        "id": 2132,
+        "quantity": 100
+      },
+      {
+        "id": 2138,
+        "quantity": 30
+      },
+      {
+        "id": 2134,
+        "quantity": 10
+      },
+      {
+        "id": 2136,
+        "quantity": 10
+      },
+      {
+        "id": 335,
+        "quantity": 0
+      },
+      {
+        "id": 349,
+        "quantity": 0
+      },
+      {
+        "id": 331,
+        "quantity": 0
+      },
+      {
+        "id": 383,
+        "quantity": 0
+      }
+    ]
+  },
+  "SOLIHIBS_FOOD_STALL": {
+    "npcs": [
+      1433
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Solihibs Consumables Stall",
+    "items": [
+      {
+        "id": 4012,
+        "quantity": 10
+      },
+      {
+        "id": 1963,
+        "quantity": 10
+      },
+      {
+        "id": 4016,
+        "quantity": 10
+      },
+      {
+        "id": 4014,
+        "quantity": 10
+      }
+    ]
+  },
+  "FRESH_MEAT": {
+    "npcs": [
+      7053
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Fresh Meat",
+    "items": [
+      {
+        "id": 2134,
+        "quantity": 10
+      },
+      {
+        "id": 2132,
+        "quantity": 300
+      },
+      {
+        "id": 2136,
+        "quantity": 10
+      },
+      {
+        "id": 2142,
+        "quantity": 10
+      },
+      {
+        "id": 2138,
+        "quantity": 10
+      },
+      {
+        "id": 2140,
+        "quantity": 10
+      },
+      {
+        "id": 3226,
+        "quantity": 100
+      },
+      {
+        "id": 7224,
+        "quantity": 0
+      },
+      {
+        "id": 7223,
+        "quantity": 0
+      },
+      {
+        "id": 3228,
+        "quantity": 10
+      },
+      {
+        "id": 2876,
+        "quantity": 0
+      },
+      {
+        "id": 7230,
+        "quantity": 0
+      },
+      {
+        "id": 2878,
+        "quantity": 0
+      },
+      {
+        "id": 7566,
+        "quantity": 0
+      },
+      {
+        "id": 2337,
+        "quantity": 0
+      },
+      {
+        "id": 9978,
+        "quantity": 10
+      },
+      {
+        "id": 9984,
+        "quantity": 0
+      },
+      {
+        "id": 9980,
+        "quantity": 0
+      },
+      {
+        "id": 9986,
+        "quantity": 0
+      },
+      {
+        "id": 9992,
+        "quantity": 0
+      },
+      {
+        "id": 9988,
+        "quantity": 0
+      }
+    ]
+  },
+  "ARDOUGNE_BAKERS_STALL": {
+    "npcs": [
+      571
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ardougne Bakers Stall",
+    "items": [
+      {
+        "id": 2309,
+        "quantity": 10
+      },
+      {
+        "id": 1891,
+        "quantity": 10
+      },
+      {
+        "id": 1973,
+        "quantity": 100
+      }
+    ]
+  },
+  "KEEPA_KETTILONS_STORE": {
+    "npcs": [
+      5487
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Keepa Kettilons Store",
+    "items": [
+      {
+        "id": 361,
+        "quantity": 0
+      },
+      {
+        "id": 329,
+        "quantity": 10
+      },
+      {
+        "id": 339,
+        "quantity": 10
+      },
+      {
+        "id": 379,
+        "quantity": 0
+      },
+      {
+        "id": 373,
+        "quantity": 0
+      },
+      {
+        "id": 385,
+        "quantity": 0
+      }
+    ]
+  },
+  "GIANNES_RESTAURANT": {
+    "npcs": [],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Giannes Restaurant",
+    "items": [
+      {
+        "id": 2223,
+        "quantity": 10
+      },
+      {
+        "id": 2225,
+        "quantity": 10
+      },
+      {
+        "id": 2221,
+        "quantity": 10
+      },
+      {
+        "id": 2219,
+        "quantity": 10
+      },
+      {
+        "id": 2227,
+        "quantity": 10
+      },
+      {
+        "id": 2233,
+        "quantity": 10
+      },
+      {
+        "id": 2231,
+        "quantity": 10
+      },
+      {
+        "id": 2235,
+        "quantity": 10
+      },
+      {
+        "id": 2229,
+        "quantity": 10
+      },
+      {
+        "id": 2241,
+        "quantity": 10
+      },
+      {
+        "id": 2243,
+        "quantity": 10
+      },
+      {
+        "id": 2239,
+        "quantity": 10
+      },
+      {
+        "id": 2237,
+        "quantity": 10
+      }
+    ]
+  },
+  "WARRIORS_GUILD_POTION_SHOP": {
+    "npcs": [
+      4294
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Warriors' Guild Potion Shop",
+    "items": [
+      {
+        "id": 115,
+        "quantity": 10
+      },
+      {
+        "id": 121,
+        "quantity": 10
+      },
+      {
+        "id": 133,
+        "quantity": 10
+      }
+    ]
+  },
+  "WARRIORS_GUILD_FOOD_SHOP": {
+    "npcs": [
+      4293
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Warriors' Guild Consumables Shop",
+    "items": [
+      {
+        "id": 333,
+        "quantity": 10
+      },
+      {
+        "id": 365,
+        "quantity": 10
+      },
+      {
+        "id": 2289,
+        "quantity": 10
+      },
+      {
+        "id": 6705,
+        "quantity": 10
+      },
+      {
+        "id": 2003,
+        "quantity": 10
+      }
+    ]
+  },
+  "WARRIORS_GUILD_ARMOURY": {
+    "npcs": [
+      4295
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Warriors' Guild Armoury",
+    "items": [
+      {
+        "id": 1363,
+        "quantity": 10
+      },
+      {
+        "id": 1365,
+        "quantity": 10
+      },
+      {
+        "id": 1369,
+        "quantity": 10
+      },
+      {
+        "id": 1277,
+        "quantity": 10
+      },
+      {
+        "id": 1279,
+        "quantity": 10
+      },
+      {
+        "id": 1281,
+        "quantity": 10
+      },
+      {
+        "id": 1283,
+        "quantity": 10
+      },
+      {
+        "id": 1285,
+        "quantity": 10
+      },
+      {
+        "id": 1287,
+        "quantity": 10
+      },
+      {
+        "id": 1307,
+        "quantity": 10
+      },
+      {
+        "id": 1309,
+        "quantity": 10
+      },
+      {
+        "id": 1311,
+        "quantity": 10
+      },
+      {
+        "id": 1313,
+        "quantity": 10
+      },
+      {
+        "id": 1315,
+        "quantity": 10
+      },
+      {
+        "id": 1317,
+        "quantity": 20
+      },
+      {
+        "id": 1211,
+        "quantity": 10
+      },
+      {
+        "id": 1301,
+        "quantity": 10
+      },
+      {
+        "id": 1297,
+        "quantity": 10
+      }
+    ]
+  },
+  "HERQUINS_GEMS": {
+    "npcs": [
+      584
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Herquins Gem",
+    "items": [
+      {
+        "id": 1623,
+        "quantity": 0
+      },
+      {
+        "id": 1621,
+        "quantity": 0
+      },
+      {
+        "id": 1619,
+        "quantity": 0
+      },
+      {
+        "id": 1617,
+        "quantity": 0
+      },
+      {
+        "id": 1607,
+        "quantity": 0
+      },
+      {
+        "id": 1605,
+        "quantity": 0
+      },
+      {
+        "id": 1603,
+        "quantity": 0
+      },
+      {
+        "id": 1601,
+        "quantity": 0
+      }
+    ]
+  },
+  "GEM_MERCHANT": {
+    "npcs": [
+      570
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ardougne Gem Stall",
+    "items": [
+      {
+        "id": 1623,
+        "quantity": 0
+      },
+      {
+        "id": 1621,
+        "quantity": 0
+      },
+      {
+        "id": 1619,
+        "quantity": 0
+      },
+      {
+        "id": 1617,
+        "quantity": 0
+      },
+      {
+        "id": 1607,
+        "quantity": 0
+      },
+      {
+        "id": 1605,
+        "quantity": 0
+      },
+      {
+        "id": 1603,
+        "quantity": 0
+      },
+      {
+        "id": 1601,
+        "quantity": 0
+      }
+    ]
+  },
+  "GREEN_GEMSTONE_GEMS": {
+    "npcs": [
+      2157
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Green Gemstone Gem",
+    "items": [
+      {
+        "id": 1607,
+        "quantity": 0
+      },
+      {
+        "id": 1605,
+        "quantity": 0
+      },
+      {
+        "id": 1603,
+        "quantity": 0
+      },
+      {
+        "id": 1601,
+        "quantity": 0
+      }
+    ]
+  },
+  "GEM_TRADER_STALL": {
+    "npcs": [
+      540
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Gem Trader (stall)",
+    "items": [
+      {
+        "id": 1623,
+        "quantity": 0
+      },
+      {
+        "id": 1621,
+        "quantity": 0
+      },
+      {
+        "id": 1619,
+        "quantity": 0
+      },
+      {
+        "id": 1617,
+        "quantity": 0
+      },
+      {
+        "id": 1607,
+        "quantity": 0
+      },
+      {
+        "id": 1605,
+        "quantity": 0
+      },
+      {
+        "id": 1603,
+        "quantity": 0
+      },
+      {
+        "id": 1601,
+        "quantity": 0
+      }
+    ]
+  },
+  "GEM_TRADER": {
+    "npcs": [
+      540
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Gem Trader (stall)",
+    "items": [
+      {
+        "id": 1623,
+        "quantity": 0
+      },
+      {
+        "id": 1621,
+        "quantity": 0
+      },
+      {
+        "id": 1619,
+        "quantity": 0
+      },
+      {
+        "id": 1617,
+        "quantity": 0
+      },
+      {
+        "id": 1607,
+        "quantity": 0
+      },
+      {
+        "id": 1605,
+        "quantity": 0
+      },
+      {
+        "id": 1603,
+        "quantity": 0
+      },
+      {
+        "id": 1601,
+        "quantity": 0
+      }
+    ]
+  },
+  "GEM_STORE_MONKEY_COLONY": {
+    "npcs": [
+      2157
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Gem Store (monkey Colony)",
+    "items": [
+      {
+        "id": 1623,
+        "quantity": 1
+      },
+      {
+        "id": 1621,
+        "quantity": 1
+      },
+      {
+        "id": 1619,
+        "quantity": 0
+      },
+      {
+        "id": 1617,
+        "quantity": 0
+      }
+    ]
+  },
+  "PELTERS_VEG_STALL": {
+    "npcs": [
+      69669
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Pelters' Veg Stall",
+    "items": [
+      {
+        "id": 2518,
+        "quantity": 100
+      }
+    ]
+  },
+  "ARDOUGNE_SILVER_STALL": {
+    "npcs": [
+      569
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ardougne Silver Stall",
+    "items": [
+      {
+        "id": 1714,
+        "quantity": 10
+      },
+      {
+        "id": 442,
+        "quantity": 0
+      },
+      {
+        "id": 2355,
+        "quantity": 0
+      }
+    ]
+  },
+  "ARDOUGNE_SPICE_STALL": {
+    "npcs": [
+      572
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ardougne Spice Stall",
+    "items": [
+      {
+        "id": 2007,
+        "quantity": 10
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 1550,
+        "quantity": 10
+      }
+    ]
+  },
+  "SHOP_OF_DISTATE": {
+    "npcs": [
+      958
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Shop of Distate",
+    "items": [
+      {
+        "id": 2518,
+        "quantity": 1
+      }
+    ]
+  },
+  "ARDOUGNE_FUR_TRADER": {
+    "npcs": [
+      573
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ardougne Fur Stall",
+    "items": [
+      {
+        "id": 948,
+        "quantity": 10
+      },
+      {
+        "id": 958,
+        "quantity": 10
+      },
+      {
+        "id": 10117,
+        "quantity": 0
+      },
+      {
+        "id": 10121,
+        "quantity": 0
+      },
+      {
+        "id": 10119,
+        "quantity": 0
+      },
+      {
+        "id": 10123,
+        "quantity": 0
+      },
+      {
+        "id": 10093,
+        "quantity": 0
+      },
+      {
+        "id": 10095,
+        "quantity": 0
+      },
+      {
+        "id": 10097,
+        "quantity": 0
+      },
+      {
+        "id": 10099,
+        "quantity": 0
+      },
+      {
+        "id": 10101,
+        "quantity": 0
+      },
+      {
+        "id": 10103,
+        "quantity": 0
+      }
+    ]
+  },
+  "PEKSAS_HELMET_SHOP": {
+    "npcs": [
+      538
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Peksas Helmet Shop",
+    "items": [
+      {
+        "id": 1139,
+        "quantity": 5
+      },
+      {
+        "id": 1137,
+        "quantity": 3
+      },
+      {
+        "id": 1141,
+        "quantity": 3
+      },
+      {
+        "id": 1143,
+        "quantity": 1
+      },
+      {
+        "id": 1145,
+        "quantity": 1
+      },
+      {
+        "id": 1155,
+        "quantity": 4
+      },
+      {
+        "id": 1153,
+        "quantity": 3
+      },
+      {
+        "id": 1157,
+        "quantity": 2
+      },
+      {
+        "id": 1159,
+        "quantity": 1
+      },
+      {
+        "id": 1161,
+        "quantity": 0
+      }
+    ]
+  },
+  "SKULGRIMENS_BATTLE_GEAR": {
+    "npcs": [
+      1303
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Skulgrimens Battle Gear",
+    "items": [
+      {
+        "id": 1337,
+        "quantity": 10
+      },
+      {
+        "id": 1335,
+        "quantity": 10
+      },
+      {
+        "id": 1339,
+        "quantity": 10
+      },
+      {
+        "id": 1341,
+        "quantity": 10
+      },
+      {
+        "id": 1343,
+        "quantity": 10
+      },
+      {
+        "id": 1347,
+        "quantity": 0
+      },
+      {
+        "id": 3749,
+        "quantity": 10
+      },
+      {
+        "id": 3751,
+        "quantity": 10
+      },
+      {
+        "id": 3753,
+        "quantity": 10
+      },
+      {
+        "id": 3755,
+        "quantity": 10
+      }
+    ]
+  },
+  "TEA_SHOP": {
+    "npcs": [
+      595
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Tea Shop",
+    "items": [
+      {
+        "id": 712,
+        "quantity": 10
+      }
+    ]
+  },
+  "FRINCOSS_FABULOUS_HERB_STORE": {
+    "npcs": [
+      297
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Frincoss Fabulous Herb Store",
+    "items": [
+      {
+        "id": 229,
+        "quantity": 10
+      },
+      {
+        "id": 233,
+        "quantity": 10
+      },
+      {
+        "id": 221,
+        "quantity": 10
+      }
+    ]
+  },
+  "GRUDS_HERBLORE_STALL": {
+    "npcs": [
+      704
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Gruds Herblore Stall",
+    "items": [
+      {
+        "id": 229,
+        "quantity": 10
+      },
+      {
+        "id": 233,
+        "quantity": 10
+      },
+      {
+        "id": 221,
+        "quantity": 10
+      }
+    ]
+  },
+  "ALECKS_HUNTER_EMPORIUM": {
+    "npcs": [
+      5110,
+      5111
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Alecks Hunter Emporium",
+    "items": [
+      {
+        "id": 10150,
+        "quantity": 20
+      },
+      {
+        "id": 10008,
+        "quantity": 20
+      },
+      {
+        "id": 10006,
+        "quantity": 20
+      },
+      {
+        "id": 10010,
+        "quantity": 20
+      },
+      {
+        "id": 10012,
+        "quantity": 500
+      },
+      {
+        "id": 11260,
+        "quantity": 500
+      },
+      {
+        "id": 10031,
+        "quantity": 20
+      },
+      {
+        "id": 10029,
+        "quantity": 20
+      },
+      {
+        "id": 20303,
+        "quantity": 20
+      },
+      {
+        "id": 954,
+        "quantity": 20
+      },
+      {
+        "id": 946,
+        "quantity": 20
+      },
+      {
+        "id": 596,
+        "quantity": 20
+      }
+    ]
+  },
+  "NARDAH_HUNTER_SHOP": {
+    "npcs": [
+      5109
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Nardah Hunter Shop",
+    "items": [
+      {
+        "id": 10010,
+        "quantity": 10
+      },
+      {
+        "id": 10012,
+        "quantity": 300
+      },
+      {
+        "id": 10025,
+        "quantity": 300
+      },
+      {
+        "id": 10150,
+        "quantity": 10
+      },
+      {
+        "id": 10006,
+        "quantity": 30
+      },
+      {
+        "id": 10008,
+        "quantity": 30
+      },
+      {
+        "id": 10029,
+        "quantity": 10
+      },
+      {
+        "id": 596,
+        "quantity": 10
+      },
+      {
+        "id": 10031,
+        "quantity": 30
+      }
+    ]
+  },
+  "JEWELLERY_SHOP": {
+    "npcs": [
+      556
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Jewellery Shop",
+    "items": [
+      {
+        "id": 1635,
+        "quantity": 0
+      },
+      {
+        "id": 1637,
+        "quantity": 0
+      },
+      {
+        "id": 1639,
+        "quantity": 0
+      },
+      {
+        "id": 1641,
+        "quantity": 0
+      },
+      {
+        "id": 1643,
+        "quantity": 0
+      },
+      {
+        "id": 1654,
+        "quantity": 0
+      },
+      {
+        "id": 1656,
+        "quantity": 0
+      },
+      {
+        "id": 1658,
+        "quantity": 0
+      },
+      {
+        "id": 1660,
+        "quantity": 0
+      },
+      {
+        "id": 1662,
+        "quantity": 0
+      },
+      {
+        "id": 1673,
+        "quantity": 0
+      },
+      {
+        "id": 1675,
+        "quantity": 0
+      },
+      {
+        "id": 1696,
+        "quantity": 0
+      },
+      {
+        "id": 1698,
+        "quantity": 0
+      },
+      {
+        "id": 1700,
+        "quantity": 0
+      },
+      {
+        "id": 11069,
+        "quantity": 0
+      },
+      {
+        "id": 11072,
+        "quantity": 0
+      },
+      {
+        "id": 11076,
+        "quantity": 0
+      },
+      {
+        "id": 11085,
+        "quantity": 0
+      },
+      {
+        "id": 11092,
+        "quantity": 0
+      }
+    ]
+  },
+  "ALI_DISCOUNT_WARES": {
+    "npcs": [
+      1862
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ali's Discount Wares.",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 10
+      },
+      {
+        "id": 1825,
+        "quantity": 10
+      },
+      {
+        "id": 1833,
+        "quantity": 10
+      },
+      {
+        "id": 1837,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 30
+      },
+      {
+        "id": 4593,
+        "quantity": 10
+      },
+      {
+        "id": 4591,
+        "quantity": 10
+      },
+      {
+        "id": 970,
+        "quantity": 1
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1265,
+        "quantity": 10
+      },
+      {
+        "id": 2138,
+        "quantity": 10
+      }
+    ]
+  },
+  "ALI_THE_KEBAB_SELLER": {
+    "npcs": [
+      1865
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ali the Kebab Seller",
+    "items": [
+      {
+        "id": 1971,
+        "quantity": 10
+      }
+    ]
+  },
+  "KARIM_KEBAB_SELLER": {
+    "npcs": [
+      543
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Karim",
+    "items": [
+      {
+        "id": 1971,
+        "quantity": 10
+      }
+    ]
+  },
+  "KJUTS_KEBABS": {
+    "npcs": [
+      2198
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Kjut's KEbabs",
+    "items": [
+      {
+        "id": 1971,
+        "quantity": 10
+      }
+    ]
+  },
+  "MACE_SHOP": {
+    "npcs": [
+      580
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Mace Shop",
+    "items": [
+      {
+        "id": 1422,
+        "quantity": 10
+      },
+      {
+        "id": 1420,
+        "quantity": 10
+      },
+      {
+        "id": 1424,
+        "quantity": 10
+      },
+      {
+        "id": 1428,
+        "quantity": 10
+      },
+      {
+        "id": 1430,
+        "quantity": 10
+      }
+    ]
+  },
+  "ALIS_DISCOUNT_WARES_RUNES": {
+    "npcs": [
+      1862
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Alis Discount Wares#runes",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 10
+      },
+      {
+        "id": 1833,
+        "quantity": 10
+      },
+      {
+        "id": 1837,
+        "quantity": 10
+      },
+      {
+        "id": 1925,
+        "quantity": 10
+      },
+      {
+        "id": 4593,
+        "quantity": 10
+      },
+      {
+        "id": 4591,
+        "quantity": 10
+      },
+      {
+        "id": 970,
+        "quantity": 10
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 1265,
+        "quantity": 10
+      },
+      {
+        "id": 2138,
+        "quantity": 10
+      },
+      {
+        "id": 6416,
+        "quantity": 20
+      },
+      {
+        "id": 4600,
+        "quantity": 20
+      },
+      {
+        "id": 556,
+        "quantity": 300
+      },
+      {
+        "id": 555,
+        "quantity": 300
+      },
+      {
+        "id": 557,
+        "quantity": 300
+      },
+      {
+        "id": 554,
+        "quantity": 300
+      },
+      {
+        "id": 561,
+        "quantity": 300
+      },
+      {
+        "id": 563,
+        "quantity": 300
+      },
+      {
+        "id": 562,
+        "quantity": 300
+      },
+      {
+        "id": 560,
+        "quantity": 300
+      },
+      {
+        "id": 558,
+        "quantity": 300
+      },
+      {
+        "id": 559,
+        "quantity": 300
+      },
+      {
+        "id": 565,
+        "quantity": 100
+      },
+      {
+        "id": 564,
+        "quantity": 300
+      },
+      {
+        "id": 566,
+        "quantity": 100
+      },
+      {
+        "id": 6382,
+        "quantity": 30
+      },
+      {
+        "id": 6388,
+        "quantity": 30
+      },
+      {
+        "id": 6390,
+        "quantity": 30
+      },
+      {
+        "id": 1835,
+        "quantity": 30
+      }
+    ]
+  },
+  "BETTYS_MAGIC_EMPORIUM": {
+    "npcs": [
+      583
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Bettys Magic Emporium",
+    "items": [
+      {
+        "id": 554,
+        "quantity": 300
+      },
+      {
+        "id": 555,
+        "quantity": 300
+      },
+      {
+        "id": 556,
+        "quantity": 300
+      },
+      {
+        "id": 557,
+        "quantity": 300
+      },
+      {
+        "id": 558,
+        "quantity": 100
+      },
+      {
+        "id": 559,
+        "quantity": 100
+      },
+      {
+        "id": 562,
+        "quantity": 30
+      },
+      {
+        "id": 560,
+        "quantity": 10
+      },
+      {
+        "id": 221,
+        "quantity": 100
+      },
+      {
+        "id": 579,
+        "quantity": 10
+      },
+      {
+        "id": 1017,
+        "quantity": 10
+      }
+    ]
+  },
+  "AUBURYS_RUNE_SHOP": {
+    "npcs": [
+      553
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Auburys Rune Shop",
+    "items": [
+      {
+        "id": 554,
+        "quantity": 5000
+      },
+      {
+        "id": 555,
+        "quantity": 5000
+      },
+      {
+        "id": 556,
+        "quantity": 5000
+      },
+      {
+        "id": 557,
+        "quantity": 5000
+      },
+      {
+        "id": 558,
+        "quantity": 5000
+      },
+      {
+        "id": 559,
+        "quantity": 5000
+      },
+      {
+        "id": 562,
+        "quantity": 250
+      },
+      {
+        "id": 560,
+        "quantity": 250
+      }
+    ]
+  },
+  "WIZARDS_GUILD__RUNE_STORE": {
+    "npcs": [
+      461
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Magic Guild Store",
+    "items": [
+      {
+        "id": 556,
+        "quantity": 5000
+      },
+      {
+        "id": 555,
+        "quantity": 5000
+      },
+      {
+        "id": 557,
+        "quantity": 5000
+      },
+      {
+        "id": 554,
+        "quantity": 5000
+      },
+      {
+        "id": 558,
+        "quantity": 5000
+      },
+      {
+        "id": 559,
+        "quantity": 5000
+      },
+      {
+        "id": 562,
+        "quantity": 250
+      },
+      {
+        "id": 561,
+        "quantity": 250
+      },
+      {
+        "id": 560,
+        "quantity": 250
+      },
+      {
+        "id": 563,
+        "quantity": 250
+      },
+      {
+        "id": 565,
+        "quantity": 250
+      },
+      {
+        "id": 566,
+        "quantity": 250
+      },
+      {
+        "id": 1391,
+        "quantity": 5
+      },
+      {
+        "id": 1387,
+        "quantity": 2
+      },
+      {
+        "id": 1383,
+        "quantity": 2
+      },
+      {
+        "id": 1381,
+        "quantity": 2
+      },
+      {
+        "id": 1385,
+        "quantity": 2
+      }
+    ]
+  },
+  "BABA_YAGAS_MAGIC_SHOP": {
+    "npcs": [
+      4513
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Baba Yagas Magic Shop",
+    "items": [
+      {
+        "id": 556,
+        "quantity": 1000
+      },
+      {
+        "id": 555,
+        "quantity": 1000
+      },
+      {
+        "id": 557,
+        "quantity": 1000
+      },
+      {
+        "id": 554,
+        "quantity": 1000
+      },
+      {
+        "id": 558,
+        "quantity": 1000
+      },
+      {
+        "id": 559,
+        "quantity": 1000
+      },
+      {
+        "id": 562,
+        "quantity": 300
+      },
+      {
+        "id": 561,
+        "quantity": 300
+      },
+      {
+        "id": 560,
+        "quantity": 300
+      },
+      {
+        "id": 563,
+        "quantity": 100
+      },
+      {
+        "id": 565,
+        "quantity": 100
+      },
+      {
+        "id": 566,
+        "quantity": 100
+      },
+      {
+        "id": 1391,
+        "quantity": 20
+      },
+      {
+        "id": 1387,
+        "quantity": 10
+      },
+      {
+        "id": 1383,
+        "quantity": 10
+      },
+      {
+        "id": 1381,
+        "quantity": 10
+      },
+      {
+        "id": 1385,
+        "quantity": 10
+      },
+      {
+        "id": 9078,
+        "quantity": 10
+      }
+    ]
+  },
+  "MAGE_TRAINING_ARENA__REWARDS": {
+    "npcs": [
+      3097
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Mage Training Arena#rewards",
+    "items": []
+  },
+  "LUNDAILS_ARENA___SIDE_RUNE_SHOP": {
+    "npcs": [
+      903
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Lundails Arena-side Rune Shop",
+    "items": [
+      {
+        "id": 554,
+        "quantity": 1000
+      },
+      {
+        "id": 555,
+        "quantity": 1000
+      },
+      {
+        "id": 556,
+        "quantity": 1000
+      },
+      {
+        "id": 557,
+        "quantity": 1000
+      },
+      {
+        "id": 558,
+        "quantity": 1000
+      },
+      {
+        "id": 559,
+        "quantity": 1000
+      },
+      {
+        "id": 561,
+        "quantity": 300
+      },
+      {
+        "id": 562,
+        "quantity": 300
+      },
+      {
+        "id": 563,
+        "quantity": 100
+      },
+      {
+        "id": 564,
+        "quantity": 300
+      },
+      {
+        "id": 560,
+        "quantity": 300
+      }
+    ]
+  },
+  "TUTABS_MAGICAL_MARKET": {
+    "npcs": [
+      1435
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Tutabs Magical Market",
+    "items": [
+      {
+        "id": 554,
+        "quantity": 1000
+      },
+      {
+        "id": 555,
+        "quantity": 1000
+      },
+      {
+        "id": 556,
+        "quantity": 1000
+      },
+      {
+        "id": 557,
+        "quantity": 1000
+      },
+      {
+        "id": 563,
+        "quantity": 100
+      },
+      {
+        "id": 4009,
+        "quantity": 10
+      },
+      {
+        "id": 4006,
+        "quantity": 10
+      },
+      {
+        "id": 4023,
+        "quantity": 10
+      }
+    ]
+  },
+  "VOID_KNIGHT_MAGIC_STORE": {
+    "npcs": [
+      3798
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Void Knight Magic Store",
+    "items": [
+      {
+        "id": 554,
+        "quantity": 1000
+      },
+      {
+        "id": 555,
+        "quantity": 1000
+      },
+      {
+        "id": 556,
+        "quantity": 1000
+      },
+      {
+        "id": 557,
+        "quantity": 1000
+      },
+      {
+        "id": 558,
+        "quantity": 1000
+      },
+      {
+        "id": 559,
+        "quantity": 1000
+      },
+      {
+        "id": 562,
+        "quantity": 300
+      },
+      {
+        "id": 560,
+        "quantity": 300
+      }
+    ]
+  },
+  "TZHAAR__MEJ_ROHS_RUNE_STORE": {
+    "npcs": [
+      2623
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 6529,
+    "title": "Tzhaar-mej-rohs Rune Store",
+    "items": [
+      {
+        "id": 554,
+        "quantity": 1000
+      },
+      {
+        "id": 555,
+        "quantity": 1000
+      },
+      {
+        "id": 557,
+        "quantity": 1000
+      },
+      {
+        "id": 556,
+        "quantity": 1000
+      },
+      {
+        "id": 558,
+        "quantity": 1000
+      },
+      {
+        "id": 559,
+        "quantity": 1000
+      },
+      {
+        "id": 562,
+        "quantity": 300
+      },
+      {
+        "id": 560,
+        "quantity": 100
+      }
+    ]
+  },
+  "TZHAAR__HUR_LEKS_GEM_STORE": {
+    "npcs": [
+      2622
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 6529,
+    "title": "Tzhaar-Hur-Lek's Ore and Gem Store.",
+    "items": [
+      {
+        "id": 438,
+        "quantity": 5
+      },
+      {
+        "id": 436,
+        "quantity": 5
+      },
+      {
+        "id": 440,
+        "quantity": 2
+      },
+      {
+        "id": 442,
+        "quantity": 0
+      },
+      {
+        "id": 453,
+        "quantity": 0
+      },
+      {
+        "id": 444,
+        "quantity": 0
+      },
+      {
+        "id": 447,
+        "quantity": 0
+      },
+      {
+        "id": 449,
+        "quantity": 0
+      },
+      {
+        "id": 451,
+        "quantity": 0
+      },
+      {
+        "id": 1623,
+        "quantity": 1
+      },
+      {
+        "id": 1621,
+        "quantity": 1
+      },
+      {
+        "id": 1619,
+        "quantity": 0
+      },
+      {
+        "id": 1617,
+        "quantity": 0
+      },
+      {
+        "id": 1631,
+        "quantity": 0
+      },
+      {
+        "id": 6571,
+        "quantity": 1
+      },
+      {
+        "id": 9194,
+        "quantity": 50
+      }
+    ]
+  },
+  "MAGIC_GUILD": {
+    "npcs": [
+      1658
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Magic Guild Store",
+    "items": [
+      {
+        "id": 4089,
+        "quantity": 1000
+      },
+      {
+        "id": 4091,
+        "quantity": 1000
+      },
+      {
+        "id": 4093,
+        "quantity": 1000
+      },
+      {
+        "id": 4095,
+        "quantity": 1000
+      },
+      {
+        "id": 4097,
+        "quantity": 1000
+      }
+    ]
+  },
+  "NURMOFS_PICKAXE_SHOP": {
+    "npcs": [
+      594
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Nurmofs Pickaxe Shop",
+    "items": [
+      {
+        "id": 1265,
+        "quantity": 10
+      },
+      {
+        "id": 1267,
+        "quantity": 10
+      },
+      {
+        "id": 1269,
+        "quantity": 10
+      },
+      {
+        "id": 1273,
+        "quantity": 10
+      },
+      {
+        "id": 1271,
+        "quantity": 10
+      },
+      {
+        "id": 1275,
+        "quantity": 10
+      }
+    ]
+  },
+  "DROGOS_MINING_EMPORIUM": {
+    "npcs": [
+      579
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Drogos Mining Emporium",
+    "items": [
+      {
+        "id": 2347,
+        "quantity": 10
+      },
+      {
+        "id": 1265,
+        "quantity": 10
+      },
+      {
+        "id": 436,
+        "quantity": 0
+      },
+      {
+        "id": 438,
+        "quantity": 0
+      },
+      {
+        "id": 440,
+        "quantity": 0
+      },
+      {
+        "id": 453,
+        "quantity": 0
+      },
+      {
+        "id": 2349,
+        "quantity": 0
+      },
+      {
+        "id": 2351,
+        "quantity": 0
+      },
+      {
+        "id": 2357,
+        "quantity": 0
+      }
+    ]
+  },
+  "PICKAXE_IS_MINE": {
+    "npcs": [
+      2160
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Pickaxe-is-mine",
+    "items": [
+      {
+        "id": 1265,
+        "quantity": 10
+      },
+      {
+        "id": 1269,
+        "quantity": 10
+      },
+      {
+        "id": 1273,
+        "quantity": 10
+      },
+      {
+        "id": 1271,
+        "quantity": 10
+      },
+      {
+        "id": 1275,
+        "quantity": 10
+      }
+    ]
+  },
+  "PET_SHOP1": {
+    "npcs": [
+      6750,
+      6898,
+      6893
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Pet Shop",
+    "items": []
+  },
+  "ZENESHAS_PLATEBODY_SHOP": {
+    "npcs": [
+      589
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Zeneshas Platebody Shop",
+    "items": [
+      {
+        "id": 1117,
+        "quantity": 10
+      },
+      {
+        "id": 1115,
+        "quantity": 10
+      },
+      {
+        "id": 1119,
+        "quantity": 10
+      },
+      {
+        "id": 1125,
+        "quantity": 10
+      },
+      {
+        "id": 1121,
+        "quantity": 10
+      }
+    ]
+  },
+  "ARMOUR_SHOP": {
+    "npcs": [
+      5485
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Armour Shop",
+    "items": [
+      {
+        "id": 1109,
+        "quantity": 10
+      },
+      {
+        "id": 1159,
+        "quantity": 10
+      },
+      {
+        "id": 1181,
+        "quantity": 10
+      },
+      {
+        "id": 1197,
+        "quantity": 10
+      },
+      {
+        "id": 1071,
+        "quantity": 10
+      },
+      {
+        "id": 1085,
+        "quantity": 10
+      },
+      {
+        "id": 1121,
+        "quantity": 10
+      }
+    ]
+  },
+  "LOUIES_ARMOURED_LEGS_BAZAAR": {
+    "npcs": [
+      542
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Louies Armoured Legs Bazaar",
+    "items": [
+      {
+        "id": 1075,
+        "quantity": 10
+      },
+      {
+        "id": 1067,
+        "quantity": 10
+      },
+      {
+        "id": 1069,
+        "quantity": 10
+      },
+      {
+        "id": 1077,
+        "quantity": 10
+      },
+      {
+        "id": 1071,
+        "quantity": 10
+      },
+      {
+        "id": 1073,
+        "quantity": 10
+      }
+    ]
+  },
+  "SEDDUS_ADVENTURERS_STORE": {
+    "npcs": [
+      3038
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Seddus Adventurers Store",
+    "items": [
+      {
+        "id": 1093,
+        "quantity": 10
+      },
+      {
+        "id": 1079,
+        "quantity": 10
+      },
+      {
+        "id": 1113,
+        "quantity": 10
+      },
+      {
+        "id": 1099,
+        "quantity": 10
+      },
+      {
+        "id": 1193,
+        "quantity": 10
+      }
+    ]
+  },
+  "RANAELS_SUPER_SKIRT_STORE": {
+    "npcs": [
+      544
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Ranaels Super Skirt Store",
+    "items": [
+      {
+        "id": 1087,
+        "quantity": 10
+      },
+      {
+        "id": 1081,
+        "quantity": 10
+      },
+      {
+        "id": 1083,
+        "quantity": 10
+      },
+      {
+        "id": 1089,
+        "quantity": 10
+      },
+      {
+        "id": 1085,
+        "quantity": 10
+      },
+      {
+        "id": 1091,
+        "quantity": 10
+      }
+    ]
+  },
+  "ZEKES_SUPERIOR_SCIMITARS": {
+    "npcs": [
+      541
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Zekes Superior Scimitars",
+    "items": [
+      {
+        "id": 1321,
+        "quantity": 10
+      },
+      {
+        "id": 1323,
+        "quantity": 10
+      },
+      {
+        "id": 1325,
+        "quantity": 10
+      },
+      {
+        "id": 1329,
+        "quantity": 10
+      }
+    ]
+  },
+  "DAGAS_SCIMITAR_SMITHY": {
+    "npcs": [
+      1434
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Dagas Scimitar Smithy",
+    "items": [
+      {
+        "id": 1321,
+        "quantity": 10
+      },
+      {
+        "id": 1323,
+        "quantity": 10
+      },
+      {
+        "id": 1325,
+        "quantity": 10
+      },
+      {
+        "id": 1329,
+        "quantity": 10
+      },
+      {
+        "id": 4587,
+        "quantity": 10
+      }
+    ]
+  },
+  "SHIELD_SHOP": {
+    "npcs": [
+      577
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Shield Shop",
+    "items": [
+      {
+        "id": 1171,
+        "quantity": 10
+      },
+      {
+        "id": 1173,
+        "quantity": 10
+      },
+      {
+        "id": 1189,
+        "quantity": 10
+      },
+      {
+        "id": 1175,
+        "quantity": 10
+      },
+      {
+        "id": 1191,
+        "quantity": 10
+      },
+      {
+        "id": 1177,
+        "quantity": 10
+      },
+      {
+        "id": 1193,
+        "quantity": 10
+      },
+      {
+        "id": 1181,
+        "quantity": 10
+      }
+    ]
+  },
+  "NULODIN_SHOP": {
+    "npcs": [
+      209
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Multicannon parts for sale",
+    "items": [
+      {
+        "id": 6,
+        "quantity": 10
+      },
+      {
+        "id": 8,
+        "quantity": 10
+      },
+      {
+        "id": 10,
+        "quantity": 10
+      },
+      {
+        "id": 12,
+        "quantity": 10
+      },
+      {
+        "id": 5,
+        "quantity": 10
+      },
+      {
+        "id": 4,
+        "quantity": 10
+      }
+    ]
+  },
+  "SPICE_SHOP": {
+    "npcs": [
+      1980
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Spice Shop",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 2169,
+        "quantity": 10
+      },
+      {
+        "id": 5970,
+        "quantity": 0
+      }
+    ]
+  },
+  "STAFF_SHOP1": {
+    "npcs": [
+      546
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Staff Shop",
+    "items": [
+      {
+        "id": 1379,
+        "quantity": 10
+      },
+      {
+        "id": 1389,
+        "quantity": 10
+      },
+      {
+        "id": 1381,
+        "quantity": 10
+      },
+      {
+        "id": 1383,
+        "quantity": 10
+      },
+      {
+        "id": 1385,
+        "quantity": 10
+      },
+      {
+        "id": 1387,
+        "quantity": 10
+      }
+    ]
+  },
+  "FORTUNATOS_FINE_WINE": {
+    "npcs": [
+      3671
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Fortunato's Fine Wine",
+    "items": [
+      {
+        "id": 1993,
+        "quantity": 10
+      },
+      {
+        "id": 1937,
+        "quantity": 10
+      },
+      {
+        "id": 7919,
+        "quantity": 10
+      },
+      {
+        "id": 1935,
+        "quantity": 10
+      }
+    ]
+  },
+  "GERRANTS_FISHY_BUSINESS": {
+    "npcs": [
+      558
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Gerrants Fishy Business",
+    "items": [
+      {
+        "id": 20303,
+        "quantity": 10
+      },
+      {
+        "id": 307,
+        "quantity": 10
+      },
+      {
+        "id": 309,
+        "quantity": 10
+      },
+      {
+        "id": 311,
+        "quantity": 1000
+      },
+      {
+        "id": 301,
+        "quantity": 10
+      },
+      {
+        "id": 313,
+        "quantity": 1000
+      },
+      {
+        "id": 314,
+        "quantity": 1000
+      },
+      {
+        "id": 317,
+        "quantity": 0
+      },
+      {
+        "id": 327,
+        "quantity": 10
+      },
+      {
+        "id": 345,
+        "quantity": 0
+      },
+      {
+        "id": 321,
+        "quantity": 0
+      },
+      {
+        "id": 335,
+        "quantity": 0
+      },
+      {
+        "id": 349,
+        "quantity": 0
+      },
+      {
+        "id": 331,
+        "quantity": 0
+      },
+      {
+        "id": 359,
+        "quantity": 0
+      },
+      {
+        "id": 377,
+        "quantity": 0
+      },
+      {
+        "id": 371,
+        "quantity": 0
+      }
+    ]
+  },
+  "HARRYS_FISHING_SHOP": {
+    "npcs": [
+      576
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Harrys Fishing Shop",
+    "items": [
+      {
+        "id": 20303,
+        "quantity": 10
+      },
+      {
+        "id": 307,
+        "quantity": 10
+      },
+      {
+        "id": 311,
+        "quantity": 1000
+      },
+      {
+        "id": 301,
+        "quantity": 10
+      },
+      {
+        "id": 313,
+        "quantity": 1000
+      },
+      {
+        "id": 305,
+        "quantity": 10
+      },
+      {
+        "id": 317,
+        "quantity": 0
+      },
+      {
+        "id": 327,
+        "quantity": 0
+      },
+      {
+        "id": 345,
+        "quantity": 0
+      },
+      {
+        "id": 353,
+        "quantity": 0
+      },
+      {
+        "id": 341,
+        "quantity": 0
+      },
+      {
+        "id": 321,
+        "quantity": 0
+      },
+      {
+        "id": 359,
+        "quantity": 0
+      },
+      {
+        "id": 377,
+        "quantity": 0
+      },
+      {
+        "id": 363,
+        "quantity": 0
+      },
+      {
+        "id": 371,
+        "quantity": 0
+      },
+      {
+        "id": 383,
+        "quantity": 0
+      },
+      {
+        "id": 7810,
+        "quantity": 1000
+      }
+    ]
+  },
+  "BLADES_BY_URBI": {
+    "npcs": [
+      5266
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Blades By Urbi",
+    "items": [
+      {
+        "id": 1205,
+        "quantity": 10
+      },
+      {
+        "id": 1203,
+        "quantity": 10
+      },
+      {
+        "id": 1207,
+        "quantity": 10
+      },
+      {
+        "id": 1217,
+        "quantity": 0
+      },
+      {
+        "id": 1209,
+        "quantity": 10
+      },
+      {
+        "id": 1211,
+        "quantity": 10
+      },
+      {
+        "id": 1213,
+        "quantity": 10
+      },
+      {
+        "id": 1215,
+        "quantity": 0
+      },
+      {
+        "id": 1321,
+        "quantity": 10
+      },
+      {
+        "id": 1323,
+        "quantity": 10
+      },
+      {
+        "id": 1325,
+        "quantity": 10
+      }
+    ]
+  },
+  "GAIUS_TWO_HANDED_SHOP": {
+    "npcs": [
+      586
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Gaius Two Handed Shop",
+    "items": [
+      {
+        "id": 1307,
+        "quantity": 10
+      },
+      {
+        "id": 1309,
+        "quantity": 10
+      },
+      {
+        "id": 1311,
+        "quantity": 10
+      },
+      {
+        "id": 1313,
+        "quantity": 10
+      },
+      {
+        "id": 1315,
+        "quantity": 10
+      },
+      {
+        "id": 1317,
+        "quantity": 10
+      }
+    ]
+  },
+  "GULLUCK_AND_SONS": {
+    "npcs": [
+      602
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Gulluck And Sons",
+    "items": [
+      {
+        "id": 882,
+        "quantity": 1000
+      },
+      {
+        "id": 877,
+        "quantity": 300
+      },
+      {
+        "id": 880,
+        "quantity": 0
+      },
+      {
+        "id": 841,
+        "quantity": 10
+      },
+      {
+        "id": 837,
+        "quantity": 10
+      },
+      {
+        "id": 1363,
+        "quantity": 10
+      },
+      {
+        "id": 1365,
+        "quantity": 10
+      },
+      {
+        "id": 1369,
+        "quantity": 10
+      },
+      {
+        "id": 1307,
+        "quantity": 10
+      },
+      {
+        "id": 1309,
+        "quantity": 10
+      },
+      {
+        "id": 1311,
+        "quantity": 10
+      },
+      {
+        "id": 1313,
+        "quantity": 10
+      },
+      {
+        "id": 1315,
+        "quantity": 10
+      },
+      {
+        "id": 1317,
+        "quantity": 10
+      }
+    ]
+  },
+  "VARROCK_SWORD_SHOP": {
+    "npcs": [
+      552,
+      551
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Varrock Sword Shop",
+    "items": [
+      {
+        "id": 1277,
+        "quantity": 20
+      },
+      {
+        "id": 1279,
+        "quantity": 10
+      },
+      {
+        "id": 1281,
+        "quantity": 10
+      },
+      {
+        "id": 1283,
+        "quantity": 10
+      },
+      {
+        "id": 1285,
+        "quantity": 10
+      },
+      {
+        "id": 1287,
+        "quantity": 10
+      },
+      {
+        "id": 1291,
+        "quantity": 10
+      },
+      {
+        "id": 1293,
+        "quantity": 10
+      },
+      {
+        "id": 1295,
+        "quantity": 10
+      },
+      {
+        "id": 1297,
+        "quantity": 10
+      },
+      {
+        "id": 1299,
+        "quantity": 10
+      },
+      {
+        "id": 1301,
+        "quantity": 10
+      },
+      {
+        "id": 1205,
+        "quantity": 10
+      },
+      {
+        "id": 1203,
+        "quantity": 10
+      },
+      {
+        "id": 1207,
+        "quantity": 10
+      },
+      {
+        "id": 1217,
+        "quantity": 10
+      },
+      {
+        "id": 1209,
+        "quantity": 10
+      },
+      {
+        "id": 1211,
+        "quantity": 10
+      }
+    ]
+  },
+  "ZEKES_SUPERIOR_SCIMITARS3": {
+    "npcs": [
+      541
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Zekes Superior Scimitars",
+    "items": [
+      {
+        "id": 1321,
+        "quantity": 10
+      },
+      {
+        "id": 1323,
+        "quantity": 10
+      },
+      {
+        "id": 1325,
+        "quantity": 10
+      },
+      {
+        "id": 1329,
+        "quantity": 10
+      }
+    ]
+  },
+  "AUTHENTIC_THROWING_WEAPONS": {
+    "npcs": [
+      692
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Authentic Throwing Weapons",
+    "items": [
+      {
+        "id": 825,
+        "quantity": 1000
+      },
+      {
+        "id": 826,
+        "quantity": 1000
+      },
+      {
+        "id": 827,
+        "quantity": 1000
+      },
+      {
+        "id": 828,
+        "quantity": 300
+      },
+      {
+        "id": 829,
+        "quantity": 100
+      },
+      {
+        "id": 830,
+        "quantity": 100
+      },
+      {
+        "id": 800,
+        "quantity": 900
+      },
+      {
+        "id": 801,
+        "quantity": 800
+      },
+      {
+        "id": 802,
+        "quantity": 700
+      },
+      {
+        "id": 803,
+        "quantity": 600
+      },
+      {
+        "id": 804,
+        "quantity": 500
+      },
+      {
+        "id": 805,
+        "quantity": 400
+      }
+    ]
+  },
+  "HAPPY_HEROES_HEMPORIUM": {
+    "npcs": [
+      797
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Happy Heroes Hemporium",
+    "items": [
+      {
+        "id": 1377,
+        "quantity": 1
+      },
+      {
+        "id": 1434,
+        "quantity": 1
+      }
+    ]
+  },
+  "JUKATS_DRAGON_SWORD_SHOP": {
+    "npcs": [
+      564
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Jukats Dragon Sword Shop",
+    "items": [
+      {
+        "id": 1305,
+        "quantity": 2
+      },
+      {
+        "id": 1215,
+        "quantity": 2
+      }
+    ]
+  },
+  "NARDOKS_BONE_WEAPONS": {
+    "npcs": [
+      4312
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Nardoks Bone Weapons",
+    "items": [
+      {
+        "id": 5018,
+        "quantity": 10
+      },
+      {
+        "id": 5016,
+        "quantity": 10
+      },
+      {
+        "id": 8872,
+        "quantity": 10
+      },
+      {
+        "id": 8880,
+        "quantity": 10
+      },
+      {
+        "id": 8882,
+        "quantity": 300
+      }
+    ]
+  },
+  "QUALITY_WEAPONS_SHOP": {
+    "npcs": [
+      2152
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Quality Weapons Shop",
+    "items": [
+      {
+        "id": 1365,
+        "quantity": 10
+      },
+      {
+        "id": 1369,
+        "quantity": 10
+      },
+      {
+        "id": 1285,
+        "quantity": 10
+      },
+      {
+        "id": 1287,
+        "quantity": 10
+      },
+      {
+        "id": 1325,
+        "quantity": 10
+      },
+      {
+        "id": 1297,
+        "quantity": 10
+      },
+      {
+        "id": 1303,
+        "quantity": 10
+      },
+      {
+        "id": 853,
+        "quantity": 10
+      },
+      {
+        "id": 888,
+        "quantity": 100
+      },
+      {
+        "id": 890,
+        "quantity": 100
+      }
+    ]
+  },
+  "QUARTERMASTERS_STORES3": {
+    "npcs": [
+      1208
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Quartermasters Stores",
+    "items": [
+      {
+        "id": 1931,
+        "quantity": 30
+      },
+      {
+        "id": 1935,
+        "quantity": 10
+      },
+      {
+        "id": 1735,
+        "quantity": 10
+      },
+      {
+        "id": 20590,
+        "quantity": 10
+      },
+      {
+        "id": 2309,
+        "quantity": 10
+      },
+      {
+        "id": 3190,
+        "quantity": 10
+      },
+      {
+        "id": 3192,
+        "quantity": 10
+      },
+      {
+        "id": 3194,
+        "quantity": 10
+      },
+      {
+        "id": 3196,
+        "quantity": 10
+      },
+      {
+        "id": 3198,
+        "quantity": 10
+      },
+      {
+        "id": 3200,
+        "quantity": 10
+      },
+      {
+        "id": 3202,
+        "quantity": 10
+      },
+      {
+        "id": 3204,
+        "quantity": 10
+      }
+    ]
+  },
+  "DRAYNOR_SEED_MARKET": {
+    "npcs": [
+      2572,
+      2233
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Draynor Seed Marker",
+    "items": [
+      {
+        "id": 5318,
+        "quantity": 0
+      },
+      {
+        "id": 5319,
+        "quantity": 0
+      },
+      {
+        "id": 5324,
+        "quantity": 0
+      },
+      {
+        "id": 5322,
+        "quantity": 0
+      },
+      {
+        "id": 5320,
+        "quantity": 0
+      },
+      {
+        "id": 5323,
+        "quantity": 0
+      },
+      {
+        "id": 5321,
+        "quantity": 0
+      },
+      {
+        "id": 5305,
+        "quantity": 0
+      },
+      {
+        "id": 5306,
+        "quantity": 5
+      },
+      {
+        "id": 5097,
+        "quantity": 20
+      },
+      {
+        "id": 5096,
+        "quantity": 20
+      },
+      {
+        "id": 5307,
+        "quantity": 20
+      },
+      {
+        "id": 5308,
+        "quantity": 5
+      },
+      {
+        "id": 5310,
+        "quantity": 0
+      },
+      {
+        "id": 5311,
+        "quantity": 0
+      }
+    ]
+  },
+  "ROMILY_WEAKLAX": {
+    "npcs": [
+      3205
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Romily Weaklax Pie's",
+    "items": [
+      {
+        "id": 2323,
+        "quantity": 1
+      },
+      {
+        "id": 2325,
+        "quantity": 1
+      },
+      {
+        "id": 2327,
+        "quantity": 1
+      },
+      {
+        "id": 7178,
+        "quantity": 1
+      },
+      {
+        "id": 7188,
+        "quantity": 1
+      },
+      {
+        "id": 7198,
+        "quantity": 1
+      }
+    ]
+  },
+  "SLAYER_EQUIPMENT": {
+    "npcs": [
+      20401,
+      20402,
+      20403,
+      20404,
+      20405
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 995,
+    "title": "Slayer Equipment",
+    "items": [
+      {
+        "id": 24155,
+        "quantity": 50
+      },
+      {
+        "id": 4156,
+        "quantity": 50
+      },
+      {
+        "id": 4158,
+        "quantity": 50
+      },
+      {
+        "id": 4160,
+        "quantity": 50000
+      },
+      {
+        "id": 4161,
+        "quantity": 5000
+      },
+      {
+        "id": 4162,
+        "quantity": 50
+      },
+      {
+        "id": 4164,
+        "quantity": 50
+      },
+      {
+        "id": 4166,
+        "quantity": 50
+      },
+      {
+        "id": 4168,
+        "quantity": 50
+      },
+      {
+        "id": 4170,
+        "quantity": 50
+      },
+      {
+        "id": 4551,
+        "quantity": 50
+      },
+      {
+        "id": 6664,
+        "quantity": 5000
+      },
+      {
+        "id": 6696,
+        "quantity": 3000
+      },
+      {
+        "id": 6720,
+        "quantity": 50
+      },
+      {
+        "id": 7051,
+        "quantity": 50
+      },
+      {
+        "id": 7159,
+        "quantity": 50
+      },
+      {
+        "id": 7421,
+        "quantity": 50
+      },
+      {
+        "id": 7432,
+        "quantity": 50
+      },
+      {
+        "id": 8923,
+        "quantity": 50
+      },
+      {
+        "id": 10952,
+        "quantity": 50
+      }
+    ]
+  },
+  "BATTLE_RUNES": {
+    "npcs": [
+      2257,
+      2258,
+      2259
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Battle Runes",
+    "items": [
+      {
+        "id": 554,
+        "quantity": 100
+      },
+      {
+        "id": 555,
+        "quantity": 100
+      },
+      {
+        "id": 556,
+        "quantity": 100
+      },
+      {
+        "id": 557,
+        "quantity": 100
+      },
+      {
+        "id": 558,
+        "quantity": 100
+      },
+      {
+        "id": 559,
+        "quantity": 100
+      },
+      {
+        "id": 562,
+        "quantity": 30
+      },
+      {
+        "id": 560,
+        "quantity": 30
+      }
+    ]
+  },
+  "SMITHING_SMITHS_SHOP": {
+    "npcs": [
+      3162
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Smithing Smiths Shop",
+    "items": [
+      {
+        "id": 1321,
+        "quantity": 10
+      },
+      {
+        "id": 1323,
+        "quantity": 10
+      },
+      {
+        "id": 1325,
+        "quantity": 10
+      },
+      {
+        "id": 1329,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      }
+    ]
+  },
+  "TAMAYUS_SPEAR_STALL": {
+    "npcs": [
+      1167
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Tamayus Spear Stall",
+    "items": [
+      {
+        "id": 3188,
+        "quantity": 10
+      }
+    ]
+  },
+  "TZHAAR__HUR_TELS_EQUIPMENT_STORE": {
+    "npcs": [
+      2620
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 6529,
+    "title": "Tzhaar-hur-tels Equipment Store",
+    "items": [
+      {
+        "id": 6522,
+        "quantity": 500
+      },
+      {
+        "id": 6525,
+        "quantity": 1
+      },
+      {
+        "id": 6523,
+        "quantity": 1
+      },
+      {
+        "id": 6524,
+        "quantity": 1
+      },
+      {
+        "id": 6526,
+        "quantity": 1
+      },
+      {
+        "id": 6527,
+        "quantity": 1
+      },
+      {
+        "id": 6528,
+        "quantity": 1
+      },
+      {
+        "id": 6568,
+        "quantity": 1
+      }
+    ]
+  },
+  "VIGRS_WARHAMMERS": {
+    "npcs": [
+      2151
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Vigrs Warhammers",
+    "items": [
+      {
+        "id": 1337,
+        "quantity": 10
+      },
+      {
+        "id": 1335,
+        "quantity": 10
+      },
+      {
+        "id": 139,
+        "quantity": 10
+      },
+      {
+        "id": 1341,
+        "quantity": 10
+      },
+      {
+        "id": 1343,
+        "quantity": 10
+      }
+    ]
+  },
+  "WEAPONS_GALORE": {
+    "npcs": [
+      5486
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Weapons Galore",
+    "items": [
+      {
+        "id": 1315,
+        "quantity": 10
+      },
+      {
+        "id": 1343,
+        "quantity": 10
+      },
+      {
+        "id": 1369,
+        "quantity": 10
+      },
+      {
+        "id": 1299,
+        "quantity": 10
+      }
+    ]
+  },
+  "LUMBER_YARD_SHOP": {
+    "npcs": [
+      4250
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Construction supplies",
+    "items": [
+      {
+        "id": 8794,
+        "quantity": 1000
+      },
+      {
+        "id": 8790,
+        "quantity": 1000
+      },
+      {
+        "id": 4819,
+        "quantity": 1000
+      },
+      {
+        "id": 4820,
+        "quantity": 1000
+      },
+      {
+        "id": 1539,
+        "quantity": 1000
+      }
+    ]
+  },
+  "THE_TOAD_AND_CHICKEN": {
+    "npcs": [
+      1079
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "The Toad and Chicken",
+    "items": [
+      {
+        "id": 1905,
+        "quantity": 12
+      },
+      {
+        "id": 1907,
+        "quantity": 12
+      },
+      {
+        "id": 1913,
+        "quantity": 12
+      }
+    ]
+  },
+  "MARTIN_THWAIT": {
+    "npcs": [
+      2270
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Martin Thwait's Lost and Found.",
+    "items": [
+      {
+        "id": 954,
+        "quantity": 50
+      },
+      {
+        "id": 1523,
+        "quantity": 25
+      },
+      {
+        "id": 1755,
+        "quantity": 30
+      },
+      {
+        "id": 946,
+        "quantity": 20
+      },
+      {
+        "id": 5560,
+        "quantity": 25
+      },
+      {
+        "id": 864,
+        "quantity": 15
+      },
+      {
+        "id": 863,
+        "quantity": 10
+      },
+      {
+        "id": 865,
+        "quantity": 5
+      },
+      {
+        "id": 3095,
+        "quantity": 3
+      },
+      {
+        "id": 3096,
+        "quantity": 2
+      },
+      {
+        "id": 3097,
+        "quantity": 1
+      }
+    ]
+  },
+  "DIANGO_TOY_STORE": {
+    "npcs": [
+      970
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Diango's Toy Store",
+    "items": [
+      {
+        "id": 2526,
+        "quantity": 10
+      },
+      {
+        "id": 2520,
+        "quantity": 10
+      },
+      {
+        "id": 2522,
+        "quantity": 10
+      },
+      {
+        "id": 2524,
+        "quantity": 10
+      },
+      {
+        "id": 4613,
+        "quantity": 10
+      }
+    ]
+  },
+  "OZIACH": {
+    "npcs": [
+      747
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Oziach",
+    "items": [
+      {
+        "id": 1127,
+        "quantity": 2
+      },
+      {
+        "id": 1135,
+        "quantity": 2
+      }
+    ]
+  },
+  "SCAVIO": {
+    "npcs": [
+      537
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Scavvo's Rune Store",
+    "items": [
+      {
+        "id": 1093,
+        "quantity": 1
+      },
+      {
+        "id": 1079,
+        "quantity": 1
+      },
+      {
+        "id": 1432,
+        "quantity": 1
+      },
+      {
+        "id": 1113,
+        "quantity": 1
+      },
+      {
+        "id": 1303,
+        "quantity": 1
+      },
+      {
+        "id": 1289,
+        "quantity": 1
+      },
+      {
+        "id": 1099,
+        "quantity": 1
+      },
+      {
+        "id": 1065,
+        "quantity": 1
+      },
+      {
+        "id": 1169,
+        "quantity": 2
+      }
+    ]
+  },
+  "VALAINES": {
+    "npcs": [
+      536
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Valaine's Shop of Champions.",
+    "items": [
+      {
+        "id": 1021,
+        "quantity": 2
+      },
+      {
+        "id": 1165,
+        "quantity": 1
+      },
+      {
+        "id": 1077,
+        "quantity": 1
+      },
+      {
+        "id": 1123,
+        "quantity": 1
+      }
+    ]
+  },
+  "BEBADIN_VILLAGE_BARTERING": {
+    "npcs": [
+      833
+    ],
+    "general": true,
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Bebadin Village Bartering",
+    "items": [
+      {
+        "id": 1823,
+        "quantity": 30
+      },
+      {
+        "id": 1831,
+        "quantity": 30
+      },
+      {
+        "id": 1937,
+        "quantity": 10
+      },
+      {
+        "id": 1921,
+        "quantity": 10
+      },
+      {
+        "id": 1929,
+        "quantity": 10
+      },
+      {
+        "id": 946,
+        "quantity": 10
+      },
+      {
+        "id": 2347,
+        "quantity": 10
+      }
+    ]
+  },
+  "IRKSOL": {
+    "npcs": [
+      566
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Irksol",
+    "items": [
+      {
+        "id": 1641,
+        "quantity": 5
+      }
+    ]
+  },
+  "MAGE_ARENA_STAVES": {
+    "npcs": [
+      904
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Mage Arena Staffs.",
+    "items": [
+      {
+        "id": 2415,
+        "quantity": 5
+      },
+      {
+        "id": 2416,
+        "quantity": 5
+      },
+      {
+        "id": 2417,
+        "quantity": 5
+      }
+    ]
+  },
+  "CULINOMANCER_FOOD": {
+    "npcs": [
+      524289
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Culinaromancer's Chest",
+    "items": [
+      {
+        "id": 1973,
+        "quantity": 100
+      },
+      {
+        "id": 1982,
+        "quantity": 50
+      },
+      {
+        "id": 1987,
+        "quantity": 9
+      },
+      {
+        "id": 2283,
+        "quantity": 1
+      },
+      {
+        "id": 1927,
+        "quantity": 50
+      },
+      {
+        "id": 6697,
+        "quantity": 50
+      },
+      {
+        "id": 2313,
+        "quantity": 50
+      },
+      {
+        "id": 1923,
+        "quantity": 50
+      },
+      {
+        "id": 1931,
+        "quantity": 50
+      },
+      {
+        "id": 1925,
+        "quantity": 50
+      },
+      {
+        "id": 1985,
+        "quantity": 50
+      },
+      {
+        "id": 1955,
+        "quantity": 50
+      },
+      {
+        "id": 1933,
+        "quantity": 50
+      },
+      {
+        "id": 1944,
+        "quantity": 50
+      },
+      {
+        "id": 2130,
+        "quantity": 50
+      },
+      {
+        "id": 2007,
+        "quantity": 50
+      },
+      {
+        "id": 1887,
+        "quantity": 50
+      },
+      {
+        "id": 1935,
+        "quantity": 50
+      },
+      {
+        "id": 1980,
+        "quantity": 50
+      }
+    ]
+  },
+  "CULINOMANCER_ITEMS": {
+    "npcs": [
+      9217
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Culinaromancer's Chest",
+    "items": [
+      {
+        "id": 7453,
+        "quantity": 5
+      },
+      {
+        "id": 7454,
+        "quantity": 5
+      },
+      {
+        "id": 7455,
+        "quantity": 5
+      },
+      {
+        "id": 7456,
+        "quantity": 5
+      },
+      {
+        "id": 7457,
+        "quantity": 5
+      },
+      {
+        "id": 7458,
+        "quantity": 5
+      },
+      {
+        "id": 7459,
+        "quantity": 5
+      },
+      {
+        "id": 7460,
+        "quantity": 5
+      },
+      {
+        "id": 7461,
+        "quantity": 5
+      },
+      {
+        "id": 7462,
+        "quantity": 5
+      },
+      {
+        "id": 7433,
+        "quantity": 5
+      },
+      {
+        "id": 7435,
+        "quantity": 5
+      },
+      {
+        "id": 7437,
+        "quantity": 5
+      },
+      {
+        "id": 7439,
+        "quantity": 5
+      },
+      {
+        "id": 7441,
+        "quantity": 5
+      },
+      {
+        "id": 7443,
+        "quantity": 5
+      },
+      {
+        "id": 7445,
+        "quantity": 5
+      },
+      {
+        "id": 7447,
+        "quantity": 5
+      },
+      {
+        "id": 7449,
+        "quantity": 5
+      },
+      {
+        "id": 7451,
+        "quantity": 5
+      }
+    ]
+  },
+  "SIR_TIFFY_CASHIEN": {
+    "npcs": [
+      2290
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Sir Tiffy Cashien",
+    "items": [
+      {
+        "id": 5574,
+        "quantity": 10
+      },
+      {
+        "id": 5576,
+        "quantity": 10
+      },
+      {
+        "id": 5575,
+        "quantity": 10
+      },
+      {
+        "id": 9672,
+        "quantity": 10
+      },
+      {
+        "id": 9676,
+        "quantity": 10
+      },
+      {
+        "id": 9674,
+        "quantity": 10
+      },
+      {
+        "id": 9678,
+        "quantity": 10
+      }
+    ]
+  },
+  "RASOLO_THE_WANDERING_MERCHANT": {
+    "npcs": [
+      1972
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Rasolo the Wandering Merchant",
+    "items": [
+      {
+        "id": 1969,
+        "quantity": 1
+      },
+      {
+        "id": 2023,
+        "quantity": 1
+      },
+      {
+        "id": 660,
+        "quantity": 1
+      },
+      {
+        "id": 1215,
+        "quantity": 1
+      },
+      {
+        "id": 550,
+        "quantity": 1
+      },
+      {
+        "id": 583,
+        "quantity": 1
+      },
+      {
+        "id": 1941,
+        "quantity": 1
+      },
+      {
+        "id": 273,
+        "quantity": 1
+      },
+      {
+        "id": 970,
+        "quantity": 1
+      },
+      {
+        "id": 975,
+        "quantity": 1
+      },
+      {
+        "id": 1599,
+        "quantity": 1
+      },
+      {
+        "id": 2976,
+        "quantity": 1
+      },
+      {
+        "id": 1823,
+        "quantity": 1
+      },
+      {
+        "id": 1837,
+        "quantity": 1
+      },
+      {
+        "id": 1854,
+        "quantity": 1
+      },
+      {
+        "id": 2524,
+        "quantity": 1
+      },
+      {
+        "id": 3377,
+        "quantity": 1
+      },
+      {
+        "id": 2894,
+        "quantity": 1
+      },
+      {
+        "id": 1909,
+        "quantity": 1
+      },
+      {
+        "id": 3787,
+        "quantity": 1
+      },
+      {
+        "id": 3711,
+        "quantity": 1
+      },
+      {
+        "id": 3678,
+        "quantity": 1
+      },
+      {
+        "id": 3424,
+        "quantity": 1
+      },
+      {
+        "id": 3420,
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "quantity": 1
+      }
+    ]
+  },
+  "RICHARDS_WILDERNESS_CAPE_SHOP": {
+    "npcs": [
+      1783
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Richard's Wilderness Cape Shop",
+    "items": [
+      {
+        "id": 4325,
+        "quantity": 10
+      },
+      {
+        "id": 4345,
+        "quantity": 10
+      },
+      {
+        "id": 4365,
+        "quantity": 10
+      },
+      {
+        "id": 4385,
+        "quantity": 10
+      },
+      {
+        "id": 4405,
+        "quantity": 10
+      }
+    ]
+  },
+  "BOUNTY_HUNTER_REWARDS": {
+    "npcs": [
+      6537
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Bounty Hunter Store",
+    "items": [
+      {
+        "id": 4587,
+        "quantity": 10
+      },
+      {
+        "id": 1305,
+        "quantity": 10
+      },
+      {
+        "id": 1215,
+        "quantity": 10
+      },
+      {
+        "id": 1377,
+        "quantity": 10
+      },
+      {
+        "id": 1434,
+        "quantity": 10
+      },
+      {
+        "id": 3204,
+        "quantity": 10
+      },
+      {
+        "id": 6914,
+        "quantity": 10
+      },
+      {
+        "id": 6889,
+        "quantity": 10
+      },
+      {
+        "id": 6916,
+        "quantity": 10
+      },
+      {
+        "id": 6918,
+        "quantity": 10
+      },
+      {
+        "id": 6920,
+        "quantity": 10
+      },
+      {
+        "id": 6922,
+        "quantity": 10
+      },
+      {
+        "id": 6924,
+        "quantity": 10
+      },
+      {
+        "id": 11388,
+        "quantity": 280
+      }
+    ]
+  },
+  "JATIXS_HERBLORE_SHOP": {
+    "npcs": [
+      587
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Jatix's Herblore Shop",
+    "items": [
+      {
+        "id": 233,
+        "quantity": 10000
+      },
+      {
+        "id": 227,
+        "quantity": 100
+      },
+      {
+        "id": 31879,
+        "quantity": 20
+      },
+      {
+        "id": 229,
+        "quantity": 100
+      },
+      {
+        "id": 31877,
+        "quantity": 50
+      },
+      {
+        "id": 6124,
+        "quantity": 1000
+      },
+      {
+        "id": 221,
+        "quantity": 100
+      },
+      {
+        "id": 32859,
+        "quantity": 20
+      },
+      {
+        "id": 236,
+        "quantity": 1000
+      },
+      {
+        "id": 226,
+        "quantity": 1000
+      },
+      {
+        "id": 224,
+        "quantity": 1000
+      },
+      {
+        "id": 1976,
+        "quantity": 1000
+      },
+      {
+        "id": 2153,
+        "quantity": 1000
+      },
+      {
+        "id": 232,
+        "quantity": 1000
+      },
+      {
+        "id": 9736,
+        "quantity": 1000
+      },
+      {
+        "id": 242,
+        "quantity": 1000
+      },
+      {
+        "id": 246,
+        "quantity": 1000
+      },
+      {
+        "id": 3139,
+        "quantity": 1000
+      },
+      {
+        "id": 6694,
+        "quantity": 1000
+      },
+      {
+        "id": 2971,
+        "quantity": 1000
+      },
+      {
+        "id": 9594,
+        "quantity": 1000
+      },
+      {
+        "id": 4255,
+        "quantity": 1000
+      },
+      {
+        "id": 1581,
+        "quantity": 1000
+      },
+      {
+        "id": 5291,
+        "quantity": 100
+      },
+      {
+        "id": 5292,
+        "quantity": 100
+      },
+      {
+        "id": 5293,
+        "quantity": 100
+      },
+      {
+        "id": 5294,
+        "quantity": 100
+      },
+      {
+        "id": 5296,
+        "quantity": 5
+      },
+      {
+        "id": 5297,
+        "quantity": 5
+      }
+    ]
+  },
+  "SUPPLIES_SALESMAN": {
+    "npcs": [
+      3050
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Supplies",
+    "items": [
+      {
+        "id": 380,
+        "quantity": 1000
+      },
+      {
+        "id": 386,
+        "quantity": 1000
+      },
+      {
+        "id": 122,
+        "quantity": 1000
+      },
+      {
+        "id": 116,
+        "quantity": 1000
+      },
+      {
+        "id": 134,
+        "quantity": 1000
+      },
+      {
+        "id": 128,
+        "quantity": 1000
+      },
+      {
+        "id": 176,
+        "quantity": 1000
+      },
+      {
+        "id": 526,
+        "quantity": 15
+      },
+      {
+        "id": 1540,
+        "quantity": 10
+      },
+      {
+        "id": 952,
+        "quantity": 100
+      },
+      {
+        "id": 946,
+        "quantity": 100
+      },
+      {
+        "id": 20590,
+        "quantity": 100
+      },
+      {
+        "id": 2347,
+        "quantity": 100
+      },
+      {
+        "id": 301,
+        "quantity": 100
+      },
+      {
+        "id": 307,
+        "quantity": 100
+      },
+      {
+        "id": 313,
+        "quantity": 100
+      },
+      {
+        "id": 309,
+        "quantity": 100
+      },
+      {
+        "id": 314,
+        "quantity": 1000
+      },
+      {
+        "id": 311,
+        "quantity": 100
+      },
+      {
+        "id": 1437,
+        "quantity": 1000
+      },
+      {
+        "id": 1762,
+        "quantity": 1000
+      },
+      {
+        "id": 954,
+        "quantity": 100
+      },
+      {
+        "id": 1925,
+        "quantity": 100
+      }
+    ]
+  },
+  "AXES_GALORE": {
+    "npcs": [
+      5880
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Axes Galore",
+    "items": [
+      {
+        "id": 1265,
+        "quantity": 100
+      },
+      {
+        "id": 1267,
+        "quantity": 100
+      },
+      {
+        "id": 1269,
+        "quantity": 100
+      },
+      {
+        "id": 1273,
+        "quantity": 100
+      },
+      {
+        "id": 1271,
+        "quantity": 100
+      },
+      {
+        "id": 1275,
+        "quantity": 100
+      },
+      {
+        "id": 1351,
+        "quantity": 100
+      },
+      {
+        "id": 1353,
+        "quantity": 100
+      },
+      {
+        "id": 1355,
+        "quantity": 100
+      },
+      {
+        "id": 1357,
+        "quantity": 100
+      },
+      {
+        "id": 1359,
+        "quantity": 100
+      }
+    ]
+  },
+  "AMAZING_MAGIC": {
+    "npcs": [
+      5197
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Amazing Magic Supplies",
+    "items": [
+      {
+        "id": 556,
+        "quantity": 1000
+      },
+      {
+        "id": 554,
+        "quantity": 1000
+      },
+      {
+        "id": 555,
+        "quantity": 1000
+      },
+      {
+        "id": 557,
+        "quantity": 1000
+      },
+      {
+        "id": 559,
+        "quantity": 400
+      },
+      {
+        "id": 558,
+        "quantity": 400
+      },
+      {
+        "id": 562,
+        "quantity": 400
+      },
+      {
+        "id": 561,
+        "quantity": 500
+      },
+      {
+        "id": 563,
+        "quantity": 500
+      },
+      {
+        "id": 560,
+        "quantity": 400
+      },
+      {
+        "id": 565,
+        "quantity": 400
+      },
+      {
+        "id": 1381,
+        "quantity": 20
+      },
+      {
+        "id": 1383,
+        "quantity": 20
+      },
+      {
+        "id": 1385,
+        "quantity": 20
+      },
+      {
+        "id": 1387,
+        "quantity": 20
+      },
+      {
+        "id": 4675,
+        "quantity": 20
+      },
+      {
+        "id": 1391,
+        "quantity": 20
+      },
+      {
+        "id": 4089,
+        "quantity": 10
+      },
+      {
+        "id": 4091,
+        "quantity": 10
+      },
+      {
+        "id": 4093,
+        "quantity": 10
+      },
+      {
+        "id": 4095,
+        "quantity": 10
+      },
+      {
+        "id": 4097,
+        "quantity": 10
+      },
+      {
+        "id": 4099,
+        "quantity": 10
+      },
+      {
+        "id": 4101,
+        "quantity": 10
+      },
+      {
+        "id": 4103,
+        "quantity": 10
+      },
+      {
+        "id": 4105,
+        "quantity": 10
+      },
+      {
+        "id": 4107,
+        "quantity": 10
+      },
+      {
+        "id": 4109,
+        "quantity": 10
+      },
+      {
+        "id": 4111,
+        "quantity": 10
+      },
+      {
+        "id": 4113,
+        "quantity": 10
+      },
+      {
+        "id": 4115,
+        "quantity": 10
+      },
+      {
+        "id": 4117,
+        "quantity": 10
+      }
+    ]
+  },
+  "MISCELLANEOUS": {
+    "npcs": [
+      5494
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Miscellaneous",
+    "items": [
+      {
+        "id": 1333,
+        "quantity": 500
+      },
+      {
+        "id": 3105,
+        "quantity": 500
+      },
+      {
+        "id": 3751,
+        "quantity": 500
+      },
+      {
+        "id": 3753,
+        "quantity": 500
+      },
+      {
+        "id": 10828,
+        "quantity": 500
+      },
+      {
+        "id": 5574,
+        "quantity": 500
+      },
+      {
+        "id": 5575,
+        "quantity": 500
+      },
+      {
+        "id": 5576,
+        "quantity": 500
+      },
+      {
+        "id": 544,
+        "quantity": 500
+      },
+      {
+        "id": 542,
+        "quantity": 500
+      },
+      {
+        "id": 6109,
+        "quantity": 500
+      },
+      {
+        "id": 6107,
+        "quantity": 500
+      },
+      {
+        "id": 6108,
+        "quantity": 500
+      },
+      {
+        "id": 6110,
+        "quantity": 500
+      },
+      {
+        "id": 6106,
+        "quantity": 500
+      },
+      {
+        "id": 6111,
+        "quantity": 500
+      },
+      {
+        "id": 4675,
+        "quantity": 500
+      },
+      {
+        "id": 6235,
+        "quantity": 500
+      },
+      {
+        "id": 6257,
+        "quantity": 500
+      },
+      {
+        "id": 6279,
+        "quantity": 500
+      },
+      {
+        "id": 1163,
+        "quantity": 5
+      },
+      {
+        "id": 1127,
+        "quantity": 5
+      },
+      {
+        "id": 1079,
+        "quantity": 5
+      },
+      {
+        "id": 1093,
+        "quantity": 5
+      },
+      {
+        "id": 1201,
+        "quantity": 5
+      },
+      {
+        "id": 4587,
+        "quantity": 500
+      },
+      {
+        "id": 5698,
+        "quantity": 500
+      },
+      {
+        "id": 1725,
+        "quantity": 500
+      },
+      {
+        "id": 1540,
+        "quantity": 500
+      }
+    ]
+  },
+  "MISCELLANEOUS_2": {
+    "npcs": [
+      4555
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Miscellaneous",
+    "items": [
+      {
+        "id": 579,
+        "quantity": 5000
+      },
+      {
+        "id": 664,
+        "quantity": 5000
+      },
+      {
+        "id": 3759,
+        "quantity": 5000
+      },
+      {
+        "id": 3761,
+        "quantity": 5000
+      },
+      {
+        "id": 3763,
+        "quantity": 5000
+      },
+      {
+        "id": 3765,
+        "quantity": 5000
+      },
+      {
+        "id": 3777,
+        "quantity": 5000
+      },
+      {
+        "id": 2550,
+        "quantity": 5000
+      },
+      {
+        "id": 2570,
+        "quantity": 5000
+      },
+      {
+        "id": 1153,
+        "quantity": 5000
+      },
+      {
+        "id": 1115,
+        "quantity": 5000
+      },
+      {
+        "id": 1067,
+        "quantity": 5000
+      },
+      {
+        "id": 1081,
+        "quantity": 5000
+      },
+      {
+        "id": 1191,
+        "quantity": 5000
+      },
+      {
+        "id": 1157,
+        "quantity": 5000
+      },
+      {
+        "id": 1119,
+        "quantity": 5000
+      },
+      {
+        "id": 1069,
+        "quantity": 5000
+      },
+      {
+        "id": 1083,
+        "quantity": 5000
+      },
+      {
+        "id": 1193,
+        "quantity": 5000
+      },
+      {
+        "id": 1159,
+        "quantity": 5000
+      },
+      {
+        "id": 1121,
+        "quantity": 5000
+      },
+      {
+        "id": 1071,
+        "quantity": 5000
+      },
+      {
+        "id": 1085,
+        "quantity": 5000
+      },
+      {
+        "id": 1197,
+        "quantity": 5000
+      },
+      {
+        "id": 1161,
+        "quantity": 5000
+      },
+      {
+        "id": 1123,
+        "quantity": 5000
+      },
+      {
+        "id": 1073,
+        "quantity": 5000
+      },
+      {
+        "id": 1091,
+        "quantity": 5000
+      },
+      {
+        "id": 1199,
+        "quantity": 5000
+      },
+      {
+        "id": 3095,
+        "quantity": 5000
+      },
+      {
+        "id": 3096,
+        "quantity": 5000
+      },
+      {
+        "id": 3097,
+        "quantity": 5000
+      },
+      {
+        "id": 3098,
+        "quantity": 5000
+      },
+      {
+        "id": 3099,
+        "quantity": 5000
+      },
+      {
+        "id": 3100,
+        "quantity": 5000
+      },
+      {
+        "id": 6335,
+        "quantity": 5000
+      },
+      {
+        "id": 6337,
+        "quantity": 5000
+      },
+      {
+        "id": 6339,
+        "quantity": 5000
+      }
+    ]
+  },
+  "HORVIKS_ARMOUR_SHOP": {
+    "npcs": [
+      549
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Horvik's Armour Shop",
+    "items": [
+      {
+        "id": 3105,
+        "quantity": 50
+      },
+      {
+        "id": 4121,
+        "quantity": 50
+      },
+      {
+        "id": 4129,
+        "quantity": 50
+      },
+      {
+        "id": 4131,
+        "quantity": 50
+      },
+      {
+        "id": 7458,
+        "quantity": 50
+      },
+      {
+        "id": 7461,
+        "quantity": 50
+      },
+      {
+        "id": 3751,
+        "quantity": 50
+      },
+      {
+        "id": 3749,
+        "quantity": 50
+      },
+      {
+        "id": 3755,
+        "quantity": 50
+      },
+      {
+        "id": 10828,
+        "quantity": 50
+      },
+      {
+        "id": 1725,
+        "quantity": 50
+      },
+      {
+        "id": 1727,
+        "quantity": 50
+      },
+      {
+        "id": 1729,
+        "quantity": 50
+      },
+      {
+        "id": 1731,
+        "quantity": 50
+      },
+      {
+        "id": 1187,
+        "quantity": 50
+      },
+      {
+        "id": 1333,
+        "quantity": 50
+      },
+      {
+        "id": 1319,
+        "quantity": 50
+      },
+      {
+        "id": 5698,
+        "quantity": 50
+      },
+      {
+        "id": 1434,
+        "quantity": 50
+      },
+      {
+        "id": 3204,
+        "quantity": 50
+      },
+      {
+        "id": 1305,
+        "quantity": 50
+      },
+      {
+        "id": 4587,
+        "quantity": 50
+      },
+      {
+        "id": 1377,
+        "quantity": 50
+      },
+      {
+        "id": 6568,
+        "quantity": 50
+      },
+      {
+        "id": 6524,
+        "quantity": 50
+      },
+      {
+        "id": 6525,
+        "quantity": 50
+      },
+      {
+        "id": 6527,
+        "quantity": 50
+      },
+      {
+        "id": 6528,
+        "quantity": 50
+      },
+      {
+        "id": 6526,
+        "quantity": 50
+      }
+    ]
+  },
+  "LOWES_ARCHERY_EMPORIUM": {
+    "npcs": [
+      550
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Lowe's Archery Emporium",
+    "items": [
+      {
+        "id": 882,
+        "quantity": 200
+      },
+      {
+        "id": 884,
+        "quantity": 200
+      },
+      {
+        "id": 886,
+        "quantity": 200
+      },
+      {
+        "id": 888,
+        "quantity": 200
+      },
+      {
+        "id": 890,
+        "quantity": 200
+      },
+      {
+        "id": 892,
+        "quantity": 200
+      },
+      {
+        "id": 841,
+        "quantity": 200
+      },
+      {
+        "id": 843,
+        "quantity": 200
+      },
+      {
+        "id": 849,
+        "quantity": 200
+      },
+      {
+        "id": 853,
+        "quantity": 200
+      },
+      {
+        "id": 857,
+        "quantity": 200
+      },
+      {
+        "id": 861,
+        "quantity": 10
+      },
+      {
+        "id": 1129,
+        "quantity": 200
+      },
+      {
+        "id": 1095,
+        "quantity": 200
+      },
+      {
+        "id": 1097,
+        "quantity": 200
+      },
+      {
+        "id": 6522,
+        "quantity": 2000
+      },
+      {
+        "id": 9181,
+        "quantity": 25
+      },
+      {
+        "id": 9183,
+        "quantity": 10
+      },
+      {
+        "id": 9141,
+        "quantity": 2000
+      },
+      {
+        "id": 9142,
+        "quantity": 2000
+      },
+      {
+        "id": 9143,
+        "quantity": 2000
+      },
+      {
+        "id": 9144,
+        "quantity": 100
+      },
+      {
+        "id": 863,
+        "quantity": 500
+      },
+      {
+        "id": 867,
+        "quantity": 200
+      },
+      {
+        "id": 868,
+        "quantity": 50
+      },
+      {
+        "id": 2,
+        "quantity": 500
+      }
+    ]
+  },
+  "THE_SHRIMP_AND_PARROT": {
+    "npcs": [
+      793
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "The Shrimps and Parrot",
+    "items": [
+      {
+        "id": 347,
+        "quantity": 5
+      },
+      {
+        "id": 339,
+        "quantity": 5
+      },
+      {
+        "id": 379,
+        "quantity": 5
+      },
+      {
+        "id": 373,
+        "quantity": 6
+      },
+      {
+        "id": 3144,
+        "quantity": 0
+      }
+    ]
+  },
+  "MOON_CLAN_FINE_CLOTHES": {
+    "npcs": [
+      4518
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Moon Clan Fine Clothes.",
+    "items": [
+      {
+        "id": 9068,
+        "quantity": 9
+      },
+      {
+        "id": 9069,
+        "quantity": 10
+      },
+      {
+        "id": 9070,
+        "quantity": 10
+      },
+      {
+        "id": 9071,
+        "quantity": 10
+      },
+      {
+        "id": 9072,
+        "quantity": 9
+      },
+      {
+        "id": 9073,
+        "quantity": 12
+      },
+      {
+        "id": 9074,
+        "quantity": 15
+      },
+      {
+        "id": 1733,
+        "quantity": 50
+      },
+      {
+        "id": 1734,
+        "quantity": 500
+      }
+    ]
+  },
+  "LUNAR_EQUIPMENT": {
+    "npcs": [
+      -1
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Lunar Equipment",
+    "items": [
+      {
+        "id": 9096,
+        "quantity": 1
+      },
+      {
+        "id": 9097,
+        "quantity": 1
+      },
+      {
+        "id": 9098,
+        "quantity": 1
+      },
+      {
+        "id": 9099,
+        "quantity": 1
+      },
+      {
+        "id": 9100,
+        "quantity": 1
+      },
+      {
+        "id": 9101,
+        "quantity": 1
+      },
+      {
+        "id": 9102,
+        "quantity": 1
+      },
+      {
+        "id": 9104,
+        "quantity": 1
+      },
+      {
+        "id": 9084,
+        "quantity": 1
+      }
+    ]
+  },
+  "CRAFTING_SALESMAN": {
+    "npcs": [
+      2824
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Crafting supplies",
+    "items": [
+      {
+        "id": 411,
+        "quantity": 1000
+      },
+      {
+        "id": 1625,
+        "quantity": 1000
+      },
+      {
+        "id": 1627,
+        "quantity": 1000
+      },
+      {
+        "id": 1623,
+        "quantity": 700
+      },
+      {
+        "id": 1621,
+        "quantity": 500
+      },
+      {
+        "id": 1619,
+        "quantity": 300
+      },
+      {
+        "id": 1617,
+        "quantity": 100
+      },
+      {
+        "id": 1739,
+        "quantity": 300
+      },
+      {
+        "id": 1753,
+        "quantity": 100
+      },
+      {
+        "id": 1759,
+        "quantity": 500
+      },
+      {
+        "id": 314,
+        "quantity": 4000
+      },
+      {
+        "id": 1777,
+        "quantity": 100
+      },
+      {
+        "id": 1755,
+        "quantity": 100
+      },
+      {
+        "id": 1733,
+        "quantity": 100
+      },
+      {
+        "id": 1734,
+        "quantity": 5000
+      },
+      {
+        "id": 1592,
+        "quantity": 10
+      },
+      {
+        "id": 1595,
+        "quantity": 10
+      },
+      {
+        "id": 1597,
+        "quantity": 10
+      },
+      {
+        "id": 1599,
+        "quantity": 10
+      },
+      {
+        "id": 1594,
+        "quantity": 10
+      },
+      {
+        "id": 5523,
+        "quantity": 10
+      },
+      {
+        "id": 1737,
+        "quantity": 100
+      },
+      {
+        "id": 1775,
+        "quantity": 50
+      }
+    ]
+  },
+  "HUNTER_SUPPLIES": {
+    "npcs": [
+      -1
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Hunter supplies",
+    "items": [
+      {
+        "id": 411,
+        "quantity": 1000
+      }
+    ]
+  },
+  "CUSTOM_FUR_CLOTHING": {
+    "npcs": [
+      -1
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Custom Fur Clothing",
+    "items": [
+      {
+        "id": 10065,
+        "quantity": 1
+      },
+      {
+        "id": 10067,
+        "quantity": 1
+      },
+      {
+        "id": 10053,
+        "quantity": 1
+      },
+      {
+        "id": 10055,
+        "quantity": 1
+      },
+      {
+        "id": 10057,
+        "quantity": 1
+      },
+      {
+        "id": 10059,
+        "quantity": 1
+      },
+      {
+        "id": 10061,
+        "quantity": 1
+      },
+      {
+        "id": 10063,
+        "quantity": 1
+      },
+      {
+        "id": 10045,
+        "quantity": 1
+      },
+      {
+        "id": 10043,
+        "quantity": 1
+      },
+      {
+        "id": 10041,
+        "quantity": 1
+      },
+      {
+        "id": 10051,
+        "quantity": 1
+      },
+      {
+        "id": 10049,
+        "quantity": 1
+      },
+      {
+        "id": 10047,
+        "quantity": 1
+      },
+      {
+        "id": 10039,
+        "quantity": 1
+      },
+      {
+        "id": 10037,
+        "quantity": 1
+      },
+      {
+        "id": 10035,
+        "quantity": 1
+      },
+      {
+        "id": 10075,
+        "quantity": 1
+      },
+      {
+        "id": 10069,
+        "quantity": 1
+      },
+      {
+        "id": 10071,
+        "quantity": 1
+      }
+    ]
+  },
+  "LOYALTY_POINT_SHOP": {
+    "npcs": [
+      2719
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": -1,
+    "title": "Loyalty Point Shop",
+    "items": [
+      {
+        "id": 995,
+        "quantity": 1000000
+      },
+      {
+        "id": 989,
+        "quantity": 1
+      },
+      {
+        "id": 2528,
+        "quantity": 1
+      },
+      {
+        "id": 11967,
+        "quantity": 1
+      },
+      {
+        "id": 40068,
+        "quantity": 1
+      },
+      {
+        "id": 40071,
+        "quantity": 1
+      },
+      {
+        "id": 40074,
+        "quantity": 1
+      },
+      {
+        "id": 40077,
+        "quantity": 1
+      },
+      {
+        "id": 32759,
+        "quantity": 1
+      },
+      {
+        "id": 32763,
+        "quantity": 1
+      },
+      {
+        "id": 32761,
+        "quantity": 1
+      },
+      {
+        "id": 32757,
+        "quantity": 1
+      },
+      {
+        "id": 40116,
+        "quantity": 1
+      },
+      {
+        "id": 40056,
+        "quantity": 1
+      }
+    ]
+  },
+  "BLURBERRY_BAR": {
+    "npcs": [
+      849
+    ],
+    "accessibility": "PLAYERS_ONLY",
+    "currency": 995,
+    "title": "Blurberry Bar",
+    "items": [
+      {
+        "id": 2028,
+        "quantity": 10
+      },
+      {
+        "id": 2030,
+        "quantity": 10
+      },
+      {
+        "id": 2032,
+        "quantity": 10
+      },
+      {
+        "id": 2034,
+        "quantity": 10
+      },
+      {
+        "id": 2036,
+        "quantity": 10
+      },
+      {
+        "id": 2038,
+        "quantity": 10
+      },
+      {
+        "id": 2040,
+        "quantity": 10
+      }
+    ]
+  },
+  "DONOR_SHOP": {
+    "npcs": [
+      1526
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": -1,
+    "title": "<col=54747F>Donor Shop",
+    "items": [
+      {
+        "id": 14698,
+        "quantity": 1
+      },
+      {
+        "id": 14699,
+        "quantity": 1
+      },
+      {
+        "id": 14700,
+        "quantity": 1
+      },
+      {
+        "id": 14701,
+        "quantity": 1
+      },
+      {
+        "id": 7583,
+        "quantity": 1
+      },
+      {
+        "id": 11954,
+        "quantity": 1
+      },
+      {
+        "id": 32771,
+        "quantity": 1
+      },
+      {
+        "id": 32769,
+        "quantity": 1
+      },
+      {
+        "id": 32800,
+        "quantity": 1
+      },
+      {
+        "id": 32802,
+        "quantity": 1
+      },
+      {
+        "id": 40113,
+        "quantity": 1
+      },
+      {
+        "id": 40035,
+        "quantity": 1
+      },
+      {
+        "id": 40038,
+        "quantity": 1
+      },
+      {
+        "id": 40044,
+        "quantity": 1
+      },
+      {
+        "id": 40041,
+        "quantity": 1
+      },
+      {
+        "id": 40047,
+        "quantity": 1
+      },
+      {
+        "id": 40017,
+        "quantity": 1
+      }
+    ]
+  },
+  "KING_ROALDS_USELESS_JUNK": {
+    "npcs": [
+      648
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": -1,
+    "title": "King Roald's Useless Junk",
+    "items": [
+      {
+        "id": 7453,
+        "quantity": 1
+      },
+      {
+        "id": 7454,
+        "quantity": 1
+      },
+      {
+        "id": 7455,
+        "quantity": 1
+      },
+      {
+        "id": 7456,
+        "quantity": 1
+      },
+      {
+        "id": 7457,
+        "quantity": 1
+      },
+      {
+        "id": 7458,
+        "quantity": 1
+      },
+      {
+        "id": 7459,
+        "quantity": 1
+      },
+      {
+        "id": 7460,
+        "quantity": 1
+      },
+      {
+        "id": 7461,
+        "quantity": 1
+      },
+      {
+        "id": 7462,
+        "quantity": 1
+      },
+      {
+        "id": 7433,
+        "quantity": 1
+      },
+      {
+        "id": 7435,
+        "quantity": 1
+      },
+      {
+        "id": 7437,
+        "quantity": 1
+      },
+      {
+        "id": 7439,
+        "quantity": 1
+      },
+      {
+        "id": 7441,
+        "quantity": 1
+      },
+      {
+        "id": 7443,
+        "quantity": 1
+      },
+      {
+        "id": 7445,
+        "quantity": 1
+      },
+      {
+        "id": 7447,
+        "quantity": 1
+      },
+      {
+        "id": 7449,
+        "quantity": 1
+      },
+      {
+        "id": 7451,
+        "quantity": 1
+      }
+    ]
+  },
+  "PROSPECTOR_PERCYS_NUGGET_SHOP": {
+    "npcs": [
+      26562
+    ],
+    "accessibility": "ALL_PLAYERS",
+    "currency": 32012,
+    "title": "Prospector Percy's Nugget Shop",
+    "items": [
+      {
+        "id": 32013,
+        "quantity": 100
+      },
+      {
+        "id": 32014,
+        "quantity": 100
+      },
+	  {
+        "id": 32015,
+        "quantity": 100
+      },
+      {
+        "id": 32016,
+        "quantity": 100
+      },
+	  {
+        "id": 32009,
+        "quantity": 1000
+      },
+	  {
+        "id": 32019,
+        "quantity": 1
+      },
+	  {
+        "id": 32020,
+        "quantity": 1
+      },
+	  {
+        "id": 39473,
+        "quantity": 100
+      }
+    ]
+  }
+}

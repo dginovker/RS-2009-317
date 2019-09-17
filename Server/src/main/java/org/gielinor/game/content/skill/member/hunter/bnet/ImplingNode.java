@@ -1,0 +1,140 @@
+package org.gielinor.game.content.skill.member.hunter.bnet;
+
+import java.util.Random;
+
+import org.gielinor.game.content.skill.Skills;
+import org.gielinor.game.node.entity.player.Player;
+import org.gielinor.game.node.item.ChanceItem;
+import org.gielinor.game.node.item.Item;
+import org.gielinor.utilities.misc.RandomUtil;
+
+/**
+ * Handles the impling node.
+ *
+ * @author Vexia
+ */
+public final class ImplingNode extends BNetNode {
+
+    /**
+     * The loot from an imp.
+     */
+    private final ChanceItem[] loot;
+
+    /**
+     * The respawn time.
+     */
+    private final int respawnTime;
+
+    /**
+     * Constructs a new {@code ImplingNode} {@code Object}.
+     *
+     * @param npcs    the npcs.
+     * @param level   the level.
+     * @param exp     the exp.
+     * @param puroExp the puro exp.
+     * @param reward  the reward.
+     * @param loot    the loot.
+     */
+    public ImplingNode(int[] npcs, int level, double exp, double puroExp, Item reward, final int respawnTime, final ChanceItem... loot) {
+        super(npcs, new int[]{ level }, new double[]{ exp, puroExp }, null, reward);
+        this.loot = loot;
+        this.respawnTime = respawnTime;
+    }
+
+    /**
+     * Constructs a new {@code ImplingNode} {@code Object}.
+     *
+     * @param npcs    the npcs.
+     * @param level   the level.
+     * @param exp     the exp.
+     * @param puroExp the puro exp.
+     * @param reward  the reward.
+     * @param loot    the loot.
+     */
+    public ImplingNode(int[] npcs, int level, double exp, double puroExp, Item reward, final ChanceItem... loot) {
+        this(npcs, level, exp, puroExp, reward, 16, loot);
+    }
+
+    /**
+     * Loots an imp jar.
+     *
+     * @param player the player.
+     * @param item   the item.
+     */
+    public void loot(final Player player, final Item item) {
+        player.lock(1);
+        if (player.getInventory().freeSlots() < 1) {
+            player.getActionSender().sendMessage("You don't have enough inventory space.");
+            return;
+        }
+        final Item reward = RandomUtil.getChanceItem(getLoot()).getRandomItem();
+        if (player.getInventory().remove(item)) {
+            if (isBroken(player)) {
+                player.getActionSender().sendMessage("You break the jar as you try and open it. You throw the shattered remains away.");
+            } else {
+                player.getInventory().add(IMPLING_JAR);
+            }
+            player.getInventory().add(reward, player);
+        }
+    }
+
+    /**
+     * Checks if the item will break.
+     *
+     * @param player the player.
+     * @return <code>True</code> if so.
+     */
+    private boolean isBroken(Player player) {
+        int strengthLevel = player.getSkills().getLevel(Skills.STRENGTH);
+        strengthLevel /= 0.5;
+        int level = getLevel();
+        int currentLevel = RandomUtil.random(strengthLevel) + 1;
+        double ratio = currentLevel / (RandomUtil.random(level + 5) + 1);
+        return Math.round(ratio * strengthLevel) < level;
+    }
+
+    @Override
+    public void message(Player player, int type, boolean success) {
+        if (!success) {
+            return;
+        }
+        switch (type) {
+            case 1:
+                player.getActionSender().sendMessage("You manage to catch the impling and squeeze it into a jar.");
+                break;
+        }
+    }
+
+    @Override
+    public double getExperience(Player player) {
+        return player.getZoneMonitor().isInZone("puro puro") ? getExperiences()[1] : super.getExperience(player);
+    }
+
+    @Override
+    public boolean isBareHand(Player player) {
+        return false;
+    }
+
+    @Override
+    public Item getJar() {
+        return IMPLING_JAR;
+    }
+
+    /**
+     * Gets the loot.
+     *
+     * @return The loot.
+     */
+    public ChanceItem[] getLoot() {
+        return loot;
+    }
+
+    /**
+     * Gets the respawnTime.
+     *
+     * @return The respawnTime.
+     */
+    public int getRespawnTime() {
+        return respawnTime;
+    }
+}

@@ -1,0 +1,11 @@
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\bin\Debug\DatabaseLibrary.dll
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\bin\Debug\DatabaseLibrary.pdb
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\obj\Debug\DatabaseLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\obj\Debug\DatabaseLibrary.dll
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\obj\Debug\DatabaseLibrary.pdb
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\bin\Debug\DatabaseLibrary.dll.config
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\bin\Debug\Dapper.dll
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\bin\Debug\MySql.Data.dll
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\bin\Debug\YamlDotNet.dll
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\bin\Debug\Dapper.xml
+C:\Users\Corey\git\Gielinor\Tools\DatabaseLibrary\bin\Debug\YamlDotNet.xml

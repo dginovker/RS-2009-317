@@ -1,0 +1,41 @@
+package org.gielinor.game.content.skill.member.hunter;
+
+import org.gielinor.game.node.entity.npc.NPC;
+import org.gielinor.game.node.entity.player.Player;
+import org.gielinor.game.world.update.flag.context.Animation;
+
+/**
+ * Handles the magic box.
+ *
+ * @author Vexia
+ */
+public final class MagicBoxSetting extends TrapSetting {
+
+    /**
+     * Constructs a new {@code MagicBoxSetting} {@code Object}.
+     */
+    public MagicBoxSetting() {
+        super(10025, new int[]{ 19223 }, new int[]{ 1470, 1472, 1476, 1474 }, "activate", 19224, Animation.create(5208), Animation.create(5207), 27);
+    }
+
+    @Override
+    public void handleCatch(int counter, TrapWrapper wrapper, TrapNode node, NPC npc, boolean success) {
+        switch (counter) {
+            case 2:
+                if (success) {
+                    wrapper.getPlayer().getActionSender().sendPositionedGraphic(932, 0, 0, npc.getLocation());
+                }
+                break;
+            case 3:
+                npc.moveStep();
+                break;
+        }
+    }
+
+    @Override
+    public void addTool(Player player, TrapWrapper wrapper, int type) {
+        if (!wrapper.isCaught()) {
+            super.addTool(player, wrapper, type);
+        }
+    }
+}

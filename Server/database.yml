@@ -1,0 +1,29 @@
+name: forum
+host: 173.212.224.246
+port: 3306
+dbname: forum
+username: game
+password: DfcV@L&sP3
+poolSize: 5
+---
+name: game
+host: 173.212.224.246
+port: 3306
+dbname: game
+username: game
+password: DfcV@L&sP3
+poolSize: 10
+#---
+#name: hiscores
+#host: db.gielinor.org
+#port: 3306
+#dbname: highscores
+#username: highscores
+#password: 3EWoWOH41Imo
+#---
+#name: vote
+#host: db.gielinor.org
+#port: 3306
+#dbname: vote
+#username: vote
+#password: TE1es464wuga

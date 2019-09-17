@@ -1,0 +1,16 @@
+{
+  "data": [
+    "Freeze Player",
+    "Unfreeze Player",
+    "Mute Player",
+    "Unmute Player",
+    "Ban Player",
+    "Unban Player",
+    "Check Bank",
+    "Check Inventory",
+    "Teleport To",
+    "Teleport To Me",
+    "Kick",
+    "Close"
+  ]
+}

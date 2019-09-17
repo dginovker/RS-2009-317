@@ -1,0 +1,22 @@
+paths: 
+  cache: (FS)Gielinor(FS)
+  cache_zip: (FS)Gielinor(FS)cache-full.zip
+  client_jar: (FS)Gielinor(FS)LIVE(FS)gamepack.jar
+  main_cache: (FS)Gielinor(FS)LIVE(FS)main_file_cache.dat
+urls: 
+  cache: "https://www.dropbox.com/s/2am1caq3k37elu4/cache-full.zip?dl=1"
+  jar: "https://gielinor.org/client/gamepack.jar"
+  loader_jar: "https://gielinor.org/client/Gielinor.jar"
+  # Nav links
+  home: "https://gielinor.org/"
+  community: "https://gielinor.org/community"
+  vote: "https://gielinor.org/vote"
+  store: "https://gielinor.org/store"
+  highscores: "https://gielinor.org/highscores"
+  support: "https://gielinor.org/community/forum/14-gielinor-help-centre/"
+  discord: "https://discord.me/gielinor-rsps"
+  rss_feed: "https://gielinor.org/community/rss/1-launcher.xml/"
+  user_profile: "https://gielinor.org/community/index.php?/profile/"
+  # These are old links, remove when launcher has been updated
+  donate: "https://gielinor.org/store"
+  forums: "https://gielinor.org/community"

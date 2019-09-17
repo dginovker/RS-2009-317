@@ -1,0 +1,43 @@
+body {
+  background-color: #d1c29c;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border: 1px solid #AAAAAA;
+}
+
+td {
+  background-color: #d8c79c;
+  text-align: center;
+  vertical-align: middle;
+}
+
+th {
+  background-color: #d4c191;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#ALWAYS {
+  background-color: #afeeee;
+}
+
+#COMMON {
+  background-color: #56e156;
+}
+
+#UNCOMMON {
+  background-color: #ffed4c;
+}
+
+#RARE {
+  background-color: #ff863c;
+}
+
+#VERY_RARE {
+  background-color: #ff6262;
+}

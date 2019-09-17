@@ -1,0 +1,82 @@
+package plugin.dialogue;
+
+import org.gielinor.game.content.dialogue.DialoguePlugin;
+import org.gielinor.game.content.dialogue.OptionSelect;
+import org.gielinor.game.content.global.shop.Shops;
+import org.gielinor.game.node.entity.npc.NPC;
+import org.gielinor.game.node.entity.player.Player;
+
+/**
+ * Represents the magic shop squire owner dialgoue.
+ *
+ * @author 'Vexia
+ * @version 1.0
+ */
+public final class SquireMagicDialougue extends DialoguePlugin {
+
+    /**
+     * Constructs a new {@code SquireMagicDialougue} {@code Object}.
+     */
+    public SquireMagicDialougue() {
+        /**
+         * empty.
+         */
+    }
+
+    /**
+     * Constructs a new {@code SquireMagicDialougue} {@code Object}.
+     *
+     * @param player the player.
+     */
+    public SquireMagicDialougue(Player player) {
+        super(player);
+    }
+
+    @Override
+    public DialoguePlugin newInstance(Player player) {
+        return new SquireMagicDialougue(player);
+    }
+
+    @Override
+    public boolean open(Object... args) {
+        npc = (NPC) args[0];
+        npc("Hi, how can I help you?");
+        stage = 0;
+        return true;
+    }
+
+    @Override
+    public boolean handle(int interfaceId, OptionSelect optionSelect) {
+        switch (stage) {
+            case 0:
+                options("What do you have for sale?", "I'm fine thanks.");
+                stage = 1;
+                break;
+            case 1:
+                switch (optionSelect.getButtonId()) {
+                    case 1:
+                        end();
+                        Shops shop = npc.getId() == 3796 ? Shops.VOID_KNIGHT_ARCHERY_STORE : npc.getId() == 3798 ? Shops.VOID_KNIGHT_MAGIC_STORE : Shops.VOID_KNIGHT_GENERAL_STORE;
+                        shop.open(player);
+                        break;
+                    case 2:
+                        player("I'm fine thanks.");
+                        stage = 20;
+                        break;
+                }
+                break;
+            case 10:
+                end();
+                break;
+            case 20:
+                end();
+                break;
+        }
+        return true;
+    }
+
+    @Override
+    public int[] getIds() {
+        return new int[]{ 3796, 3798, 3799 };
+    }
+}

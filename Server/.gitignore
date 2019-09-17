@@ -1,0 +1,55 @@
+# Project specific local data
+logback.xml
+config.json
+mysql.properties
+data/cache/
+data/FACache/
+data/models/
+data/models_BAK/
+data/textures/
+data/maps/
+data/osrsanims/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Eclipse ###
+
+MANIFEST.MF
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.iml
+*.eml
+local.properties
+.settings/
+.loadpath
+.recommenders
+*.launch
+.idea/
+out/
+target/
+data/player/
+logs/
+repository/

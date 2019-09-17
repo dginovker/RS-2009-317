@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Application-Name: Gielinor
+Permissions: all-permissions
+Codebase: *
+Created-By: Apache Maven 3.2.5
+Main-Class: com.runescape.Game
+

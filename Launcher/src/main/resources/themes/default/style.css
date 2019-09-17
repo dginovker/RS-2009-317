@@ -1,0 +1,50 @@
+   p, body {
+       color: #9ea1af;
+       font-family: 'Lato Regular', sans-serif;
+       font-size: 12;
+   }
+   a {
+	   text-decoration: none;
+   }
+   .link {
+       color: #c5c8da;
+	   font-size: 16;
+	   text-decoration: none;
+   }
+   .author {
+       color: #818bcd;
+   }
+   .post_date {
+       color: #ba806f;
+   }
+   .launcher_version {
+       color: #9b9fb5;
+       font-family: 'Lato Regular', sans-serif;
+       font-size: 12;
+       text-align: left;
+   }
+   .download_percentage {
+       color: #9b9fb5;
+       font-size: 12;
+   }
+   .download_progress {
+       color: #616471;
+       font-size: 12;
+   }
+   .status_text {
+       color: #616471;
+       font-family: 'Lato Regular', sans-serif;
+       font-size: 12;
+       text-align: left;
+   }
+   .update_link {
+       color: white;
+       font-family: 'Open Sans', sans-serif;
+       font-size: 12;
+	   text-align: right;
+   }
+   h1, .news_title {
+	   color: #d6dcf7;
+	   font-family: 'Lato Regular', sans-serif;
+       font-size: 18;
+   }
