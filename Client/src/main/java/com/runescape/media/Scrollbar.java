@@ -1,6 +1,6 @@
 package com.runescape.media;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.GameShell;
 import com.runescape.cache.media.RSComponent;
 
@@ -12,7 +12,7 @@ public class Scrollbar {
     /**
      * Draws a scrollbar.
      *
-     * @param game        The {@link com.runescape.Game} instance.
+     * @param game        The {@link Game} instance.
      * @param barHeight   The height of the bar.
      * @param scrollPos   The position of the scroller.
      * @param y           The y coordinate.
@@ -61,7 +61,7 @@ public class Scrollbar {
     /**
      * Draws a basic scrollbar.
      *
-     * @param game      The {@link com.runescape.Game} instance.
+     * @param game      The {@link Game} instance.
      * @param barHeight The height of the bar.
      * @param scrollPos The position of the scroller.
      * @param y         The y coordinate.
@@ -191,7 +191,7 @@ public class Scrollbar {
     /**
      * Draws a new-aged scrollbar.
      *
-     * @param game      The {@link com.runescape.Game} instance.
+     * @param game      The {@link Game} instance.
      * @param barHeight The height of the bar.
      * @param scrollPos The position of the scroller.
      * @param y         The y coordinate.
@@ -225,7 +225,7 @@ public class Scrollbar {
     /**
      * Draws a transparent scrollbar.
      *
-     * @param game      The {@link com.runescape.Game} instance.
+     * @param game      The {@link Game} instance.
      * @param barHeight The height of the bar.
      * @param x         The x coordinate.
      * @param y         The y coordinate.
@@ -251,7 +251,7 @@ public class Scrollbar {
     /**
      * Draws a console transparent scrollbar.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      * @param x    The x coordinate.
      * @param y    The y coordinate.
      */

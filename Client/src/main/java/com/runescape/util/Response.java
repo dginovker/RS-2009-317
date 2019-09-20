@@ -1,7 +1,7 @@
 package com.runescape.util;
 
 import com.runescape.Constants;
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 
 import java.io.IOException;
 
@@ -165,7 +165,7 @@ public enum Response {
     /**
      * Handles the response.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public void handle(Game game) {
         if (getMessages() != null) {

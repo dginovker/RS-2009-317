@@ -1,7 +1,7 @@
 package com.runescape.net.requester;
 
 import com.runescape.Constants;
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.collection.Deque;
 import com.runescape.collection.Queue;
 import com.runescape.net.CacheArchive;

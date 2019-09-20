@@ -1,6 +1,6 @@
 package com.runescape.media.component.impl;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.media.Raster;
 import com.runescape.media.component.ComponentType;
@@ -15,7 +15,7 @@ public class DrawnComponent extends ComponentType {
     /**
      * Constructs a new <code>DrawnComponent</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public DrawnComponent(Game game) {
         super(game);

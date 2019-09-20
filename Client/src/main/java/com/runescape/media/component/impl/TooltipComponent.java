@@ -1,6 +1,6 @@
 package com.runescape.media.component.impl;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.cache.media.Sprite;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
@@ -17,7 +17,7 @@ public class TooltipComponent extends ComponentType {
     /**
      * Constructs a new <code>TooltipComponent</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public TooltipComponent(Game game) {
         super(game);

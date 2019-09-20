@@ -1,6 +1,6 @@
 package com.runescape.chat;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.GameShell;
 import com.runescape.util.StringUtility;
 

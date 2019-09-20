@@ -1,6 +1,6 @@
 package com.runescape.media.component;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.RSComponent;
 
 /**
@@ -10,14 +10,14 @@ import com.runescape.cache.media.RSComponent;
  */
 public abstract class ComponentType {
     /**
-     * The {@link com.runescape.Game} instance.
+     * The {@link Game} instance.
      */
     private final Game game;
 
     /**
      * Constructs a new <code>ComponentType</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public ComponentType(Game game) {
         this.game = game;
@@ -36,7 +36,7 @@ public abstract class ComponentType {
     public abstract void draw(RSComponent rsComponent, RSComponent rsComponent1, int interfaceX, int interfaceY, int childX, int childY);
 
     /**
-     * Gets the {@link com.runescape.Game} instance.
+     * Gets the {@link Game} instance.
      *
      * @return The game instance.
      */

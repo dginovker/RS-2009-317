@@ -549,7 +549,7 @@ public class Frame extends JFrame implements ActionListener, PropertyChangeListe
                 try {
                     final ClassLoader classLoader = new URLClassLoader(new URL[]{new URL("file:///" + configuration.getMapValueByKey("paths", "client_jar"))}, ClassLoader.getSystemClassLoader().getParent());
                     Thread.currentThread().setContextClassLoader(classLoader);
-                    final Class<?> gameLaunch = classLoader.loadClass("com.runescape.Game");
+                    final Class<?> gameLaunch = classLoader.loadClass("main.java.com.runescape.Game");
                     gameLaunch.getMethod("main", String[].class).invoke(null, new Object[]{new String[]{}});
                 } catch (Exception e) {
                     e.printStackTrace();

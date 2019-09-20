@@ -1,6 +1,6 @@
 package com.runescape.media.renderable.entity;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.def.*;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.def.npc.NPCDefinition;

@@ -1,7 +1,7 @@
 package com.runescape.scene.graphic;
 
 import com.runescape.Constants;
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.def.TextureDefinition;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
 import com.runescape.cache.texture.TextureLoader317;

@@ -1,7 +1,7 @@
 package com.runescape.cache;
 
 import com.runescape.Constants;
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 
 import javax.swing.*;
 import java.io.*;

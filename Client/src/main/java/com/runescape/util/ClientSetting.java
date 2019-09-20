@@ -1,7 +1,7 @@
 package com.runescape.util;
 
 import com.runescape.Constants;
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
 import com.runescape.net.ByteBufferUtils;
 
@@ -44,7 +44,7 @@ public class ClientSetting {
      */
     private final File SETTINGS_FILE = new File(Constants.getCachePath(true) + File.separator + "preferences.dat");
     /**
-     * The {@link com.runescape.Game} instance.
+     * The {@link Game} instance.
      */
     private final Game game;
     /**
@@ -67,7 +67,7 @@ public class ClientSetting {
     /**
      * Constructs the <code>ClientSetting</code> class.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public ClientSetting(Game game) {
         this.game = game;

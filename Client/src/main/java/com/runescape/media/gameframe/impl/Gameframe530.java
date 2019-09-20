@@ -1,7 +1,7 @@
 package com.runescape.media.gameframe.impl;
 
 import com.runescape.Constants;
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.config.ge.GrandExchange;
 import com.runescape.cache.def.npc.NPCDefinition;
 import com.runescape.cache.def.object.ObjectDefinition;
@@ -144,7 +144,7 @@ public class Gameframe530 extends Gameframe {
     /**
      * Constructs a new <code>GameFrame</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public Gameframe530(Game game) {
         super(game);

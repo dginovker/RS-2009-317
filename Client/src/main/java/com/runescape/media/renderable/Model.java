@@ -1,6 +1,6 @@
 package com.runescape.media.renderable;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.SequenceFrame;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
 import com.runescape.media.Raster;

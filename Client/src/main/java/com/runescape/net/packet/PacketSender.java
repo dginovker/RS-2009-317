@@ -1,6 +1,6 @@
 package com.runescape.net.packet;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.net.RSStream;
 import com.runescape.util.ChatMessageCodec;
 
@@ -58,14 +58,14 @@ public class PacketSender {
      */
     private static final Logger logger = Logger.getLogger(PacketSender.class.getName());
     /**
-     * The {@link com.runescape.Game} instance.
+     * The {@link Game} instance.
      */
     private final Game game;
 
     /**
      * Constructs the <code>PacketSender</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public PacketSender(Game game) {
         this.game = game;

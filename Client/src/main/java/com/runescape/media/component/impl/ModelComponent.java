@@ -1,6 +1,6 @@
 package com.runescape.media.component.impl;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.media.Animation;
 import com.runescape.media.component.ComponentType;
@@ -17,7 +17,7 @@ public class ModelComponent extends ComponentType {
     /**
      * Constructs a new <code>ModelComponent</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public ModelComponent(Game game) {
         super(game);

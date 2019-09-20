@@ -1,6 +1,6 @@
 package com.runescape.cache.def.npc;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.config.VariableBits;
 import com.runescape.cache.def.DefinitionData;
 import com.runescape.cache.def.impl.NPCRepository;

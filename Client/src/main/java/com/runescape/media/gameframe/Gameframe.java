@@ -1,6 +1,6 @@
 package com.runescape.media.gameframe;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.Sprite;
 import com.runescape.media.ImageProducer;
 import com.runescape.net.CacheArchive;
@@ -13,7 +13,7 @@ import com.runescape.net.CacheArchive;
 public abstract class Gameframe {
 
     /**
-     * The {@link com.runescape.Game} instance.
+     * The {@link Game} instance.
      */
     private final Game game;
     /**
@@ -38,7 +38,7 @@ public abstract class Gameframe {
     /**
      * Constructs a new <code>GameFrame</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public Gameframe(Game game) {
         this.game = game;
@@ -223,7 +223,7 @@ public abstract class Gameframe {
     public abstract void determineMenuSize();
 
     /**
-     * Gets the {@link com.runescape.Game} instance.
+     * Gets the {@link Game} instance.
      *
      * @return The game instance.
      */

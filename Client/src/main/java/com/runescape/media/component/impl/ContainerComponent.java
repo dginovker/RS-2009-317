@@ -1,6 +1,6 @@
 package com.runescape.media.component.impl;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.media.ImageLoader;
 import com.runescape.cache.media.RSComponent;
@@ -24,7 +24,7 @@ public class ContainerComponent extends ComponentType {
     /**
      * Constructs a new <code>ContainerComponent</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public ContainerComponent(Game game) {
         super(game);

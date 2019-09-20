@@ -1,7 +1,7 @@
 package com.runescape.media.component;
 
 import com.runescape.Constants;
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.def.IdentityKit;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.media.RSComponent;
@@ -24,7 +24,7 @@ import java.util.Map;
  */
 public class ComponentDrawing {
     /**
-     * The {@link com.runescape.Game} instance.
+     * The {@link Game} instance.
      */
     private final Game game;
     /**
@@ -40,7 +40,7 @@ public class ComponentDrawing {
     /**
      * Constructs the <code>ComponentDrawing</code> class.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public ComponentDrawing(Game game) {
         this.game = game;

@@ -1,6 +1,6 @@
 package com.runescape.media.component.impl;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.media.Raster;
 import com.runescape.media.component.ComponentType;
@@ -16,7 +16,7 @@ public class StringComponent extends ComponentType {
     /**
      * Constructs a new <code>StringComponent</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public StringComponent(Game game) {
         super(game);

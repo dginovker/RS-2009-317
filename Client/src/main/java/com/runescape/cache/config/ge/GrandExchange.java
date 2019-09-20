@@ -1,6 +1,6 @@
 package com.runescape.cache.config.ge;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.media.ImageLoader;
 import com.runescape.cache.media.RSComponent;
@@ -86,7 +86,7 @@ public class GrandExchange {
      */
     public final Sprite pendingShort;
     /**
-     * The {@link com.runescape.Game} instance.
+     * The {@link Game} instance.
      */
     private final Game game;
     /**
@@ -136,7 +136,7 @@ public class GrandExchange {
     /**
      * Constructs the <code>GrandExchange</code> class.
      *
-     * @param game    The {@link com.runescape.Game} instance.
+     * @param game    The {@link Game} instance.
      * @param pending The pending sprites.
      * @param aborted The aborted sprite.
      */

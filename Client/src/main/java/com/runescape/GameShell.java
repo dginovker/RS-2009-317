@@ -4,6 +4,7 @@ import com.runescape.cache.media.InterfaceChild;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.media.ImageProducer;
 import com.runescape.util.Console;
+import main.java.com.runescape.Game;
 
 import java.applet.Applet;
 import java.awt.*;

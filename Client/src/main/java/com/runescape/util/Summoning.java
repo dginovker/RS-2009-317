@@ -1,6 +1,6 @@
 package com.runescape.util;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.media.ImageLoader;
 import com.runescape.cache.media.InterfaceChild;
@@ -16,7 +16,7 @@ import com.runescape.net.packet.PacketSender;
 public class Summoning {
 
     /**
-     * The {@link com.runescape.Game} instance.
+     * The {@link Game} instance.
      */
     private final Game game;
 
@@ -43,7 +43,7 @@ public class Summoning {
     /**
      * Constructs a new <code>Summoning</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public Summoning(Game game) {
         this.game = game;

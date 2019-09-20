@@ -1,6 +1,6 @@
 package com.runescape.cache.texture;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.Background;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
 import com.runescape.scene.graphic.Rasterizer;

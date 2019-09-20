@@ -1,7 +1,7 @@
 package com.runescape.scene.map;
 
 import com.runescape.Constants;
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
 import com.runescape.collection.Deque;
 import com.runescape.media.Raster;

@@ -1,6 +1,6 @@
 package com.runescape.media.component.impl;
 
-import com.runescape.Game;
+import main.java.com.runescape.Game;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.media.component.ComponentType;
@@ -15,7 +15,7 @@ public class ItemStackComponent extends ComponentType {
     /**
      * Constructs a new <code>ItemStackComponent</code>.
      *
-     * @param game The {@link com.runescape.Game} instance.
+     * @param game The {@link Game} instance.
      */
     public ItemStackComponent(Game game) {
         super(game);
