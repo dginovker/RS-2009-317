@@ -1,6 +1,6 @@
 package com.runescape.cache.config.ge;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.media.ImageLoader;
 import com.runescape.cache.media.RSComponent;

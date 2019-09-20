@@ -1,6 +1,6 @@
 package com.runescape.media.component.impl;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.media.Scrollbar;
 import com.runescape.media.component.ComponentType;

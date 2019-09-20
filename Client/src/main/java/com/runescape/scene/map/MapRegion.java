@@ -1,6 +1,6 @@
 package com.runescape.scene.map;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.def.object.ObjectDefinition;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
 import com.runescape.cache.texture.TextureLoader317;

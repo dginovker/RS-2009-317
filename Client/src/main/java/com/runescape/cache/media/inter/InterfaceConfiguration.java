@@ -1,6 +1,6 @@
 package com.runescape.cache.media.inter;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 
 /**
  * Represents an {@code InterfaceConfiguration}.

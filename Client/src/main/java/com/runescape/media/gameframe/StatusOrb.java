@@ -1,6 +1,6 @@
 package com.runescape.media.gameframe;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.media.RSComponent;
 
 /**

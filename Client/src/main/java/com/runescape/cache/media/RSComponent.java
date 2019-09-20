@@ -1,7 +1,7 @@
 package com.runescape.cache.media;
 
 import com.runescape.Constants;
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.def.npc.NPCDefinition;
 import com.runescape.cache.media.inter.InterfacePlugin;

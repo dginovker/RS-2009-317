@@ -4,7 +4,7 @@ import com.runescape.cache.media.InterfaceChild;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.media.ImageProducer;
 import com.runescape.util.Console;
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 
 import java.applet.Applet;
 import java.awt.*;
@@ -56,10 +56,10 @@ public class GameShell extends Applet implements Runnable, MouseListener,
     int myWidth;
     int myHeight;
     ImageProducer fullGameScreen;
-    GameFrame mainFrame;
+    protected GameFrame mainFrame;
     boolean awtFocus;
     int idleTime;
-    int clickMode2;
+    protected int clickMode2;
     int clickMode1;
     private int exitTimer;
     private int delayTime;

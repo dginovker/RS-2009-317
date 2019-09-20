@@ -1,6 +1,6 @@
 package com.runescape.net.packet;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.net.RSStream;
 import com.runescape.util.ChatMessageCodec;
 

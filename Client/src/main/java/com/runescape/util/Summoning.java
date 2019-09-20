@@ -1,6 +1,6 @@
 package com.runescape.util;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.media.ImageLoader;
 import com.runescape.cache.media.InterfaceChild;

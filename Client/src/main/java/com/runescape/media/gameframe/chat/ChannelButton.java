@@ -1,6 +1,6 @@
 package com.runescape.media.gameframe.chat;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.media.Sprite;
 import com.runescape.media.font.GameFont;
 import com.runescape.util.TextConstants;

@@ -1,7 +1,7 @@
 package com.runescape.cache.media;
 
 import com.runescape.Constants;
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.media.SkinList;
 import com.runescape.net.RSStream;
 

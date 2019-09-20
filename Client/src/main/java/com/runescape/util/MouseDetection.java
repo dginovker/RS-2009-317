@@ -1,6 +1,6 @@
 package com.runescape.util;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 
 public final class MouseDetection implements Runnable {
 

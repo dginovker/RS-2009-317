@@ -73,6 +73,7 @@ public class ImageLoader {
         }
         if (!new File(IMAGE_FILE).exists()) {
             try {
+                System.out.println("Figure out where the cache goes.. probably here!" + IMAGE_FILE);
                 new File(IMAGE_FILE).createNewFile();
             } catch (IOException e) {
                 e.printStackTrace();

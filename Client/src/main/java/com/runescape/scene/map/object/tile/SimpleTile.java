@@ -1,6 +1,6 @@
 package com.runescape.scene.map.object.tile;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
 
 public final class SimpleTile {

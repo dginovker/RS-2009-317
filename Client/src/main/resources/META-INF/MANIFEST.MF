@@ -3,5 +3,5 @@ Application-Name: Gielinor
 Permissions: all-permissions
 Codebase: *
 Created-By: Apache Maven 3.2.5
-Main-Class: main.java.com.runescape.Game
+Main-Class: com.runescape.Game
 

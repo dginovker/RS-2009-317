@@ -1,6 +1,6 @@
 package com.runescape.scene;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.config.VariableBits;
 import com.runescape.cache.def.object.ObjectDefinition;
 import com.runescape.media.Animation;

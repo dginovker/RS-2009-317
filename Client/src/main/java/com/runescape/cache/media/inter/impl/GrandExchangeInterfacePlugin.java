@@ -1,6 +1,6 @@
 package com.runescape.cache.media.inter.impl;
 
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.media.ImageLoader;
 import com.runescape.cache.media.RSComponent;
 import com.runescape.cache.media.SpriteRepository;

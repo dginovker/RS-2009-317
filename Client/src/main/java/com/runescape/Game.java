@@ -1,4 +1,4 @@
-package main.java.com.runescape;
+package com.runescape;
 
 import com.runescape.cache.CacheUtil;
 import com.runescape.cache.Index;
@@ -7,14 +7,14 @@ import com.runescape.cache.config.VariableBits;
 import com.runescape.cache.config.VariableParameter;
 import com.runescape.cache.config.ge.GrandExchange;
 import com.runescape.cache.config.ge.GrandExchangeOffer;
-import main.java.com.runescape.cache.def.*;
+import com.runescape.cache.def.*;
 import com.runescape.cache.def.item.ItemDefinition;
 import com.runescape.cache.def.item.OSRSItemDefinition;
 import com.runescape.cache.def.npc.NPCDefinition;
 import com.runescape.cache.def.npc.OSRSNPCDefinition;
 import com.runescape.cache.def.object.OSRSObjectDefinition;
 import com.runescape.cache.def.object.ObjectDefinition;
-import main.java.com.runescape.cache.media.*;
+import com.runescape.cache.media.*;
 import com.runescape.cache.media.inter.InterfaceConfiguration;
 import com.runescape.cache.texture.TextureAnimating;
 import com.runescape.cache.texture.TextureLoader317;
@@ -42,7 +42,7 @@ import com.runescape.media.renderable.entity.Entity;
 import com.runescape.media.renderable.entity.Item;
 import com.runescape.media.renderable.entity.NPC;
 import com.runescape.media.renderable.entity.Player;
-import main.java.com.runescape.net.*;
+import com.runescape.net.*;
 import com.runescape.net.packet.PacketSender;
 import com.runescape.net.protocol.ProtocolConstants;
 import com.runescape.net.requester.Resource;
@@ -65,11 +65,9 @@ import com.runescape.scene.map.object.tile.FloorOverlay;
 import com.runescape.sign.SignLink;
 import com.runescape.sound.SoundPlayer;
 import com.runescape.sound.Track;
-import main.java.com.runescape.util.*;
+import com.runescape.util.*;
+import com.runescape.*;
 import com.runescape.world.WorldDefinition;
-import org.nikkii.alertify4j.Alertify;
-import org.nikkii.alertify4j.AlertifyBuilder;
-import org.nikkii.alertify4j.AlertifyType;
 
 import java.applet.AppletContext;
 import java.awt.*;
@@ -12095,7 +12093,7 @@ public class Game extends GameShell {
                         pushMessage(new ChatMessage((rankIcon > 0 ? 7 : 3),
                                 username, privateMessage, title, titleSuffix, icons));
 
-                        if (!screenFocused) {
+                        /*if (!screenFocused) {
                             if (notifications) {
                                 Alertify.show(new AlertifyBuilder()
                                         .type(AlertifyType.INFO)
@@ -12103,7 +12101,7 @@ public class Game extends GameShell {
                                         .autoClose(5000)
                                         .build());
                             }
-                        }
+                        }*/ //Lol fuck that not debugging this to get notifications.
                     } catch (Exception exception1) {
                         logger.log(Level.WARNING, "Error in private message reported: {0}", exception1.getMessage());
                         exception1.printStackTrace();

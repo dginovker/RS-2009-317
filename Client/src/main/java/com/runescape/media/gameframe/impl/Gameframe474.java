@@ -1,7 +1,7 @@
 package com.runescape.media.gameframe.impl;
 
 import com.runescape.Constants;
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 import com.runescape.cache.config.ge.GrandExchange;
 import com.runescape.cache.def.npc.NPCDefinition;
 import com.runescape.cache.def.object.ObjectDefinition;

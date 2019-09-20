@@ -1,7 +1,7 @@
 package com.runescape.util;
 
 import com.runescape.Constants;
-import main.java.com.runescape.Game;
+import com.runescape.Game;
 
 import java.io.IOException;
 
